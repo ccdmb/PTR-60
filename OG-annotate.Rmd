@@ -1,0 +1,148 @@
+---
+title: "Pan genome orthologous genes"
+author: "Paula Moolhuijzen"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#https://rstudio-pubs-static.s3.amazonaws.com/329027_593046fb6d7a427da6b2c538caf601e1.html
+```
+
+
+```{r path, echo=FALSE, message=F, warning=F}
+getwd()
+setwd(getwd())
+print(getwd())
+```
+
+```{r load, echo=FALSE, message=F, warning=F}
+
+library(stringr)
+library(biomaRt)
+library(RColorBrewer)
+library(ggplot2)
+library(reshape2)
+library(viridis)
+library(hrbrthemes)
+library("dplyr")
+library(ggfortify)
+library("ggpubr")
+#library(data.table)
+library(biomaRt)
+library(stringr)
+#library(gplots)
+
+```
+
+## read in data
+
+```{r, echo=FALSE}
+
+
+ogs.g <- read.table("og2pfam2go-orthologs.txt", sep="\t", header = FALSE)
+ogs.s <- read.table("og2pfam2go-singletons.txt", sep="\t", header = FALSE)
+
+```
+
+
+
+## GO biomaRt
+
+```{r}
+mart <- useMart("fungi_mart", host = "fungi.ensembl.org")
+#listEnsembl(mart)
+```
+
+# Mart and Paths
+```{r }
+#listAttributes(useMart("plants_mart", dataset="hvulgare_eg_gene", host = "plants.ensembl.org"))
+```
+
+```{r}
+
+#tail(listDatasets(useMart("fungi_mart", host = "fungi.ensembl.org")), 50)
+```
+
+```{r}
+#searchDatasets(mart = mart, pattern = "ptriticirepentis_eg_gene")
+```
+
+```{r }
+#head(c(useMart("plants_mart", dataset="taestivum_eg_gene", host = "plants.ensembl.org")), 40)
+
+pmart=useDataset("ptriticirepentis_eg_gene", mart = mart)
+listAttributes(useMart("fungi_mart", dataset="ptriticirepentis_eg_gene", host = "fungi.ensembl.org"))
+```
+
+```{r}
+go <- getBM(attributes = c("go_id", "name_1006", "namespace_1003"), 
+                     mart = pmart)
+```
+
+## Make the summary
+
+```{r, echo=FALSE, message=F, warning=F, fig.width=8, fig.height=12}
+
+
+ogs.g$type <- "Group"
+ogs.s$type <- "Singletons"
+write.table(ogs.g, file="og2pfam2go2namespace-group.txt", sep="\t", row.names = FALSE, col.names = FALSE)
+write.table(ogs.s, file="og2pfam2go2namespace-singletons.txt", sep="\t", row.names = FALSE, col.names = FALSE)
+
+ogs <- rbind(ogs.g, ogs.s)
+ogns <- merge.data.frame(ogs, go, by.x = "V5", by.y = "go_id")
+
+write.table(ogns, file="og2pfam2go2namespace.txt", sep="\t", row.names = FALSE, col.names = FALSE)
+
+t <- as.data.frame(ogns %>% 
+  group_by(namespace_1003, name_1006, type) %>%
+  dplyr::summarise(count = n()))
+
+
+t$percent <- (t$count/18000)*100
+
+s <- subset(t, t$percent > 1.00)
+#cc <- subset(t, t$namespace_1003 == "cellular_component")
+#bp <- subset(t, t$namespace_1003 == "biological_process")
+#mf <- subset(t, t$namespace_1003 == "molecular_function")
+
+write.table(t, file="og2ofam2go2namespace-sumamry.txt", sep="\t", row.names = FALSE, col.names = TRUE)
+
+```
+
+## create a bar chart for the summary
+
+```{r, echo=FALSE, message=F, warning=F, fig.width=12, fig.height=12}
+
+len <- length(unique(s$name_1006))
+s$name_1006 = str_wrap(s$name_1006,20)
+
+set <-  colorRampPalette(brewer.pal(12, "Paired"))(len)
+
+
+r <- ggplot(s, aes(namespace_1003)) + 
+    geom_bar(position="stack", stat="identity", aes(y = count, fill = name_1006)) +
+    #scale_fill_viridis(discrete = T) +
+    ggtitle("Orthogroup Gene Ontology") +
+    theme_ipsum() +
+    xlab("") +
+  theme(legend.position = "right", axis.text=element_text(size=14), axis.title.y=element_text(size=14),legend.text=element_text(size=14), legend.title=element_text(size=16)) + scale_fill_manual(values = set) +
+  guides(fill=guide_legend(nrow=len, title="Gene Ontology")) + facet_wrap(~type)
+
+r 
+
+ggsave(r, file="orthogroup-functions.png", width=12, height=12)
+
+#r +guides(fill=guide_legend(nrow=60))
+#r +theme(legend.position="bottom")
+
+```
+
+```{r}
+sessionInfo()
+```
+

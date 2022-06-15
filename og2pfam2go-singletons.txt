@@ -1,0 +1,2040 @@
+PF08118	OG0016111	MDM31_MDM32	"GO:mitochondrion inheritance"	GO:0000001
+PF05208	OG0015632	ALG3	"GO:mannosyltransferase activity"	GO:0000030
+PF02796	OG0017410	HTH_7	"GO:DNA strand exchange activity"	GO:0000150
+PF00512	OG0015606	HisKA	"GO:phosphorelay sensor kinase activity"	GO:0000155
+PF00512	OG0016521	HisKA	"GO:phosphorelay sensor kinase activity"	GO:0000155
+PF07730	OG0015440	HisKA_3	"GO:phosphorelay sensor kinase activity"	GO:0000155
+PF00486	OG0014928	Trans_reg_C	"GO:phosphorelay signal transduction system"	GO:0000160
+PF07730	OG0015440	HisKA_3	"GO:phosphorelay signal transduction system"	GO:0000160
+PF01580	OG0018055	FtsK_SpoIIIE	"GO:nucleotide binding"	GO:0000166
+PF01921	OG0016286	tRNA-synt_1f	"GO:nucleotide binding"	GO:0000166
+PF03175	OG0015364	DNA_pol_B_2	"GO:nucleotide binding"	GO:0000166
+PF04558	OG0014849	tRNA_synt_1c_R1	"GO:nucleotide binding"	GO:0000166
+PF09180	OG0015286	ProRS-C_1	"GO:nucleotide binding"	GO:0000166
+PF09269	OG0016620	DUF1967	"GO:nucleotide binding"	GO:0000166
+PF10458	OG0017417	Val_tRNA-synt_C	"GO:nucleotide binding"	GO:0000166
+PF04710	OG0016912	Pellino	"GO:protein polyubiquitination"	GO:0000209
+PF01670	OG0016158	Glyco_hydro_12	"GO:polysaccharide catabolic process"	GO:0000272
+PF10775	OG0016548	ATP_sub_h	"GO:mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)"	GO:0000276
+PF08651	OG0015015	DASH_Duo1	"GO:mitotic cell cycle"	GO:0000278
+PF04446	OG0016187	Thg1	"GO:magnesium ion binding"	GO:0000287
+PF04446	OG0016588	Thg1	"GO:magnesium ion binding"	GO:0000287
+PF08926	OG0016675	DUF1908	"GO:magnesium ion binding"	GO:0000287
+PF04938	OG0016338	SIP1	"GO:spliceosomal snRNP assembly"	GO:0000387
+PF03343	OG0014948	SART-1	"GO:mRNA splicing, via spliceosome"	GO:0000398
+PF04889	OG0015153	Cwf_Cwc_15	"GO:mRNA splicing, via spliceosome"	GO:0000398
+PF19252	OG0014948	HIND	"GO:mRNA splicing, via spliceosome"	GO:0000398
+PF19252	OG0015071	HIND	"GO:mRNA splicing, via spliceosome"	GO:0000398
+PF06412	OG0017096	TraD	"GO:obsolete conjugation"	GO:0000746
+PF09026	OG0014866	CENP-B_dimeris	"GO:chromosome, centromeric region"	GO:0000775
+PF01101	OG0018060	HMG14_17	"GO:chromatin"	GO:0000785
+PF02079	OG0014973	TP1	"GO:nucleosome"	GO:0000786
+PF02079	OG0015022	TP1	"GO:nucleosome"	GO:0000786
+PF02079	OG0015295	TP1	"GO:nucleosome"	GO:0000786
+PF02079	OG0015746	TP1	"GO:nucleosome"	GO:0000786
+PF02079	OG0016790	TP1	"GO:nucleosome"	GO:0000786
+PF02079	OG0016926	TP1	"GO:nucleosome"	GO:0000786
+PF02079	OG0017243	TP1	"GO:nucleosome"	GO:0000786
+PF02079	OG0017965	TP1	"GO:nucleosome"	GO:0000786
+PF02079	OG0018038	TP1	"GO:nucleosome"	GO:0000786
+PF02079	OG0018085	TP1	"GO:nucleosome"	GO:0000786
+PF15233	OG0016841	SYCE1	"GO:synaptonemal complex"	GO:0000795
+PF03980	OG0016861	Nnf1	"GO:nuclear MIS12/MIND complex"	GO:0000818
+PF06160	OG0014971	EzrA	"GO:septin ring assembly"	GO:0000921
+PF06160	OG0015015	EzrA	"GO:septin ring assembly"	GO:0000921
+PF00172	OG0015167	Zn_clus	"GO:DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981
+PF00172	OG0015204	Zn_clus	"GO:DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981
+PF00172	OG0015206	Zn_clus	"GO:DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981
+PF00172	OG0016493	Zn_clus	"GO:DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981
+PF00172	OG0016733	Zn_clus	"GO:DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981
+PF00172	OG0017007	Zn_clus	"GO:DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981
+PF00172	OG0017022	Zn_clus	"GO:DNA-binding transcription factor activity, RNA polymerase II-specific"	GO:0000981
+PF05327	OG0017529	RRN3	"GO:RNA polymerase I general transcription initiation factor activity"	GO:0001181
+PF09142	OG0015196	TruB_C	"GO:pseudouridine synthesis"	GO:0001522
+PF09142	OG0016788	TruB_C	"GO:pseudouridine synthesis"	GO:0001522
+PF09229	OG0016593	Aha1_N	"GO:ATPase activator activity"	GO:0001671
+PF04762	OG0015196	IKI3	"GO:tRNA wobble uridine modification"	GO:0002098
+PF04762	OG0016788	IKI3	"GO:tRNA wobble uridine modification"	GO:0002098
+PF05625	OG0016904	PAXNEB	"GO:tRNA wobble uridine modification"	GO:0002098
+PF07240	OG0016594	Turandot	"GO:immune system process"	GO:0002376
+PF02367	OG0015001	TsaE	"GO:tRNA threonylcarbamoyladenosine modification"	GO:0002949
+PF02367	OG0016589	TsaE	"GO:tRNA threonylcarbamoyladenosine modification"	GO:0002949
+PF02367	OG0016849	TsaE	"GO:tRNA threonylcarbamoyladenosine modification"	GO:0002949
+PF00098	OG0015170	zf-CCHC	"GO:nucleic acid binding"	GO:0003676
+PF00098	OG0017511	zf-CCHC	"GO:nucleic acid binding"	GO:0003676
+PF00270	OG0015182	DEAD	"GO:nucleic acid binding"	GO:0003676
+PF00270	OG0015215	DEAD	"GO:nucleic acid binding"	GO:0003676
+PF00270	OG0016725	DEAD	"GO:nucleic acid binding"	GO:0003676
+PF00270	OG0017075	DEAD	"GO:nucleic acid binding"	GO:0003676
+PF00270	OG0017761	DEAD	"GO:nucleic acid binding"	GO:0003676
+PF00270	OG0018049	DEAD	"GO:nucleic acid binding"	GO:0003676
+PF00570	OG0015727	HRDC	"GO:nucleic acid binding"	GO:0003676
+PF02171	OG0015417	Piwi	"GO:nucleic acid binding"	GO:0003676
+PF03184	OG0015681	DDE_1	"GO:nucleic acid binding"	GO:0003676
+PF03184	OG0015707	DDE_1	"GO:nucleic acid binding"	GO:0003676
+PF03184	OG0015742	DDE_1	"GO:nucleic acid binding"	GO:0003676
+PF03184	OG0015761	DDE_1	"GO:nucleic acid binding"	GO:0003676
+PF09005	OG0014928	DUF1897	"GO:nucleic acid binding"	GO:0003676
+PF09005	OG0015087	DUF1897	"GO:nucleic acid binding"	GO:0003676
+PF13456	OG0015584	RVT_3	"GO:nucleic acid binding"	GO:0003676
+PF00046	OG0014850	Homeodomain	"GO:DNA binding"	GO:0003677
+PF00046	OG0015014	Homeodomain	"GO:DNA binding"	GO:0003677
+PF00486	OG0014928	Trans_reg_C	"GO:DNA binding"	GO:0003677
+PF00633	OG0017338	HHH	"GO:DNA binding"	GO:0003677
+PF01191	OG0016819	RNA_pol_Rpb5_C	"GO:DNA binding"	GO:0003677
+PF01325	OG0017918	Fe_dep_repress	"GO:DNA binding"	GO:0003677
+PF01580	OG0018055	FtsK_SpoIIIE	"GO:DNA binding"	GO:0003677
+PF01984	OG0016927	dsDNA_bind	"GO:DNA binding"	GO:0003677
+PF02079	OG0014973	TP1	"GO:DNA binding"	GO:0003677
+PF02079	OG0015022	TP1	"GO:DNA binding"	GO:0003677
+PF02079	OG0015295	TP1	"GO:DNA binding"	GO:0003677
+PF02079	OG0015746	TP1	"GO:DNA binding"	GO:0003677
+PF02079	OG0016790	TP1	"GO:DNA binding"	GO:0003677
+PF02079	OG0016926	TP1	"GO:DNA binding"	GO:0003677
+PF02079	OG0017243	TP1	"GO:DNA binding"	GO:0003677
+PF02079	OG0017965	TP1	"GO:DNA binding"	GO:0003677
+PF02079	OG0018038	TP1	"GO:DNA binding"	GO:0003677
+PF02079	OG0018085	TP1	"GO:DNA binding"	GO:0003677
+PF02178	OG0017534	AT_hook	"GO:DNA binding"	GO:0003677
+PF02257	OG0017431	RFX_DNA_binding	"GO:DNA binding"	GO:0003677
+PF02796	OG0017410	HTH_7	"GO:DNA binding"	GO:0003677
+PF02892	OG0014882	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0014896	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0014897	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0014899	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015131	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015136	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015138	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015139	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015144	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015724	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015743	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015753	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015754	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015755	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015756	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015759	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015760	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015762	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015769	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0015780	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0018104	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0018109	zf-BED	"GO:DNA binding"	GO:0003677
+PF02892	OG0018123	zf-BED	"GO:DNA binding"	GO:0003677
+PF03175	OG0015364	DNA_pol_B_2	"GO:DNA binding"	GO:0003677
+PF04082	OG0015168	Fungal_trans	"GO:DNA binding"	GO:0003677
+PF04082	OG0015204	Fungal_trans	"GO:DNA binding"	GO:0003677
+PF04082	OG0016733	Fungal_trans	"GO:DNA binding"	GO:0003677
+PF04218	OG0016103	CENP-B_N	"GO:DNA binding"	GO:0003677
+PF04689	OG0015370	S1FA	"GO:DNA binding"	GO:0003677
+PF04851	OG0015149	ResIII	"GO:DNA binding"	GO:0003677
+PF04851	OG0017761	ResIII	"GO:DNA binding"	GO:0003677
+PF04997	OG0015617	RNA_pol_Rpb1_1	"GO:DNA binding"	GO:0003677
+PF04998	OG0017230	RNA_pol_Rpb1_5	"GO:DNA binding"	GO:0003677
+PF05132	OG0016044	RNA_pol_Rpc4	"GO:DNA binding"	GO:0003677
+PF05225	OG0015371	HTH_psq	"GO:DNA binding"	GO:0003677
+PF05225	OG0015450	HTH_psq	"GO:DNA binding"	GO:0003677
+PF05225	OG0015658	HTH_psq	"GO:DNA binding"	GO:0003677
+PF05225	OG0017410	HTH_psq	"GO:DNA binding"	GO:0003677
+PF05920	OG0014850	Homeobox_KN	"GO:DNA binding"	GO:0003677
+PF05920	OG0015014	Homeobox_KN	"GO:DNA binding"	GO:0003677
+PF07382	OG0017069	HC2	"GO:DNA binding"	GO:0003677
+PF09026	OG0014866	CENP-B_dimeris	"GO:DNA binding"	GO:0003677
+PF09111	OG0015153	SLIDE	"GO:DNA binding"	GO:0003677
+PF09339	OG0017783	HTH_IclR	"GO:DNA binding"	GO:0003677
+PF09573	OG0015087	RE_TaqI	"GO:DNA binding"	GO:0003677
+PF10073	OG0016861	DUF2312	"GO:DNA binding"	GO:0003677
+PF12619	OG0016616	MCM2_N	"GO:DNA binding"	GO:0003677
+PF13922	OG0017240	PHD_3	"GO:DNA binding"	GO:0003677
+PF14372	OG0014903	DUF4413	"GO:DNA binding"	GO:0003677
+PF14372	OG0015101	DUF4413	"GO:DNA binding"	GO:0003677
+PF14372	OG0015118	DUF4413	"GO:DNA binding"	GO:0003677
+PF14372	OG0015183	DUF4413	"GO:DNA binding"	GO:0003677
+PF14372	OG0016964	DUF4413	"GO:DNA binding"	GO:0003677
+PF14372	OG0018101	DUF4413	"GO:DNA binding"	GO:0003677
+PF15077	OG0014981	MAJIN	"GO:DNA binding"	GO:0003677
+PF16326	OG0014938	ABC_tran_CTD	"GO:DNA binding"	GO:0003677
+PF16326	OG0016557	ABC_tran_CTD	"GO:DNA binding"	GO:0003677
+PF18024	OG0015380	HTH_50	"GO:DNA binding"	GO:0003677
+PF00772	OG0015408	DnaB	"GO:DNA helicase activity"	GO:0003678
+PF06047	OG0015691	Nkap_C	"GO:chromatin binding"	GO:0003682
+PF09026	OG0014866	CENP-B_dimeris	"GO:chromatin binding"	GO:0003682
+PF07352	OG0014921	Phage_Mu_Gam	"GO:double-stranded DNA binding"	GO:0003690
+PF00126	OG0015380	HTH_1	"GO:DNA-binding transcription factor activity"	GO:0003700
+PF00126	OG0018082	HTH_1	"GO:DNA-binding transcription factor activity"	GO:0003700
+PF00170	OG0015704	bZIP_1	"GO:DNA-binding transcription factor activity"	GO:0003700
+PF00170	OG0016861	bZIP_1	"GO:DNA-binding transcription factor activity"	GO:0003700
+PF00392	OG0015371	GntR	"GO:DNA-binding transcription factor activity"	GO:0003700
+PF00424	OG0015606	REV	"GO:DNA-binding transcription factor activity"	GO:0003700
+PF01371	OG0017410	Trp_repressor	"GO:DNA-binding transcription factor activity"	GO:0003700
+PF07716	OG0015704	bZIP_2	"GO:DNA-binding transcription factor activity"	GO:0003700
+PF12802	OG0017918	MarR_2	"GO:DNA-binding transcription factor activity"	GO:0003700
+PF06333	OG0017828	Med13_C	"GO:transcription coregulator activity"	GO:0003712
+PF07544	OG0015196	Med9	"GO:transcription coregulator activity"	GO:0003712
+PF09637	OG0017408	Med18	"GO:transcription coregulator activity"	GO:0003712
+PF06825	OG0014912	HSBP1	"GO:transcription corepressor activity"	GO:0003714
+PF08618	OG0017996	Opi1	"GO:transcription corepressor activity"	GO:0003714
+PF00013	OG0015211	KH_1	"GO:RNA binding"	GO:0003723
+PF00013	OG0015213	KH_1	"GO:RNA binding"	GO:0003723
+PF00076	OG0015081	RRM_1	"GO:RNA binding"	GO:0003723
+PF00076	OG0015270	RRM_1	"GO:RNA binding"	GO:0003723
+PF00076	OG0017735	RRM_1	"GO:RNA binding"	GO:0003723
+PF00076	OG0018139	RRM_1	"GO:RNA binding"	GO:0003723
+PF00910	OG0015182	RNA_helicase	"GO:RNA binding"	GO:0003723
+PF00910	OG0015196	RNA_helicase	"GO:RNA binding"	GO:0003723
+PF00910	OG0016849	RNA_helicase	"GO:RNA binding"	GO:0003723
+PF01287	OG0015572	eIF-5a	"GO:RNA binding"	GO:0003723
+PF03246	OG0016499	Pneumo_ncap	"GO:RNA binding"	GO:0003723
+PF03246	OG0017849	Pneumo_ncap	"GO:RNA binding"	GO:0003723
+PF03246	OG0018092	Pneumo_ncap	"GO:RNA binding"	GO:0003723
+PF04146	OG0017350	YTH	"GO:RNA binding"	GO:0003723
+PF07650	OG0015213	KH_2	"GO:RNA binding"	GO:0003723
+PF08147	OG0015087	DBP10CT	"GO:RNA binding"	GO:0003723
+PF08777	OG0018139	RRM_3	"GO:RNA binding"	GO:0003723
+PF09142	OG0015196	TruB_C	"GO:RNA binding"	GO:0003723
+PF09142	OG0016788	TruB_C	"GO:RNA binding"	GO:0003723
+PF16367	OG0018139	RRM_7	"GO:RNA binding"	GO:0003723
+PF16714	OG0017223	TyrRSs_C	"GO:RNA binding"	GO:0003723
+PF00910	OG0015182	RNA_helicase	"GO:RNA helicase activity"	GO:0003724
+PF00910	OG0015196	RNA_helicase	"GO:RNA helicase activity"	GO:0003724
+PF00910	OG0016849	RNA_helicase	"GO:RNA helicase activity"	GO:0003724
+PF08147	OG0015087	DBP10CT	"GO:RNA helicase activity"	GO:0003724
+PF06658	OG0016048	DUF1168	"GO:double-stranded RNA binding"	GO:0003725
+PF07927	OG0014917	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0014981	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0015412	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0016398	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0016757	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0017736	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0017790	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0017837	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0017845	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0017851	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF07927	OG0017914	HicA_toxin	"GO:mRNA binding"	GO:0003729
+PF00189	OG0015827	Ribosomal_S3_C	"GO:structural constituent of ribosome"	GO:0003735
+PF00468	OG0015100	Ribosomal_L34	"GO:structural constituent of ribosome"	GO:0003735
+PF00573	OG0017620	Ribosomal_L4	"GO:structural constituent of ribosome"	GO:0003735
+PF01667	OG0016772	Ribosomal_S27e	"GO:structural constituent of ribosome"	GO:0003735
+PF01783	OG0016297	Ribosomal_L32p	"GO:structural constituent of ribosome"	GO:0003735
+PF01929	OG0016844	Ribosomal_L14e	"GO:structural constituent of ribosome"	GO:0003735
+PF03719	OG0016841	Ribosomal_S5_C	"GO:structural constituent of ribosome"	GO:0003735
+PF17144	OG0015524	Ribosomal_L5e	"GO:structural constituent of ribosome"	GO:0003735
+PF17144	OG0016713	Ribosomal_L5e	"GO:structural constituent of ribosome"	GO:0003735
+PF01873	OG0017578	eIF-5_eIF-2B	"GO:translation initiation factor activity"	GO:0003743
+PF05091	OG0015089	eIF-3_zeta	"GO:translation initiation factor activity"	GO:0003743
+PF05470	OG0016812	eIF-3c_N	"GO:translation initiation factor activity"	GO:0003743
+PF05470	OG0017312	eIF-3c_N	"GO:translation initiation factor activity"	GO:0003743
+PF01287	OG0015572	eIF-5a	"GO:translation elongation factor activity"	GO:0003746
+PF00063	OG0016770	Myosin_head	"GO:cytoskeletal motor activity"	GO:0003774
+PF02049	OG0015539	FliE	"GO:cytoskeletal motor activity"	GO:0003774
+PF02049	OG0017982	FliE	"GO:cytoskeletal motor activity"	GO:0003774
+PF01213	OG0014912	CAP_N	"GO:actin binding"	GO:0003779
+PF01183	OG0016622	Glyco_hydro_25	"GO:lysozyme activity"	GO:0003796
+PF00378	OG0017154	ECH_1	"GO:catalytic activity"	GO:0003824
+PF00668	OG0015194	Condensation	"GO:catalytic activity"	GO:0003824
+PF00668	OG0016379	Condensation	"GO:catalytic activity"	GO:0003824
+PF00982	OG0017619	Glyco_transf_20	"GO:catalytic activity"	GO:0003824
+PF02504	OG0016894	FA_synthesis	"GO:catalytic activity"	GO:0003824
+PF02504	OG0016895	FA_synthesis	"GO:catalytic activity"	GO:0003824
+PF03372	OG0015092	Exo_endo_phos	"GO:catalytic activity"	GO:0003824
+PF14529	OG0014892	Exo_endo_phos_2	"GO:catalytic activity"	GO:0003824
+PF14529	OG0015092	Exo_endo_phos_2	"GO:catalytic activity"	GO:0003824
+PF01073	OG0015067	3Beta_HSD	"GO:3-beta-hydroxy-delta5-steroid dehydrogenase activity"	GO:0003854
+PF01073	OG0015192	3Beta_HSD	"GO:3-beta-hydroxy-delta5-steroid dehydrogenase activity"	GO:0003854
+PF01073	OG0015216	3Beta_HSD	"GO:3-beta-hydroxy-delta5-steroid dehydrogenase activity"	GO:0003854
+PF02548	OG0017745	Pantoate_transf	"GO:3-methyl-2-oxobutanoate hydroxymethyltransferase activity"	GO:0003864
+PF01051	OG0017194	Rep_3	"GO:DNA-directed DNA polymerase activity"	GO:0003887
+PF03175	OG0015364	DNA_pol_B_2	"GO:DNA-directed DNA polymerase activity"	GO:0003887
+PF01191	OG0016819	RNA_pol_Rpb5_C	"GO:DNA-directed 5'-3' RNA polymerase activity"	GO:0003899
+PF04997	OG0015617	RNA_pol_Rpb1_1	"GO:DNA-directed 5'-3' RNA polymerase activity"	GO:0003899
+PF04998	OG0017230	RNA_pol_Rpb1_5	"GO:DNA-directed 5'-3' RNA polymerase activity"	GO:0003899
+PF04679	OG0017389	DNA_ligase_A_C	"GO:DNA ligase (ATP) activity"	GO:0003910
+PF06574	OG0014975	FAD_syn	"GO:FMN adenylyltransferase activity"	GO:0003919
+PF00503	OG0015182	G-alpha	"GO:GTPase activity"	GO:0003924
+PF00503	OG0015210	G-alpha	"GO:GTPase activity"	GO:0003924
+PF00503	OG0016692	G-alpha	"GO:GTPase activity"	GO:0003924
+PF03193	OG0015182	RsgA_GTPase	"GO:GTPase activity"	GO:0003924
+PF03193	OG0016849	RsgA_GTPase	"GO:GTPase activity"	GO:0003924
+PF03193	OG0018055	RsgA_GTPase	"GO:GTPase activity"	GO:0003924
+PF03431	OG0015599	RNA_replicase_B	"GO:RNA-directed 5'-3' RNA polymerase activity"	GO:0003968
+PF02550	OG0015358	AcetylCoA_hydro	"GO:acetyl-CoA hydrolase activity"	GO:0003986
+PF13822	OG0014883	ACC_epsilon	"GO:acetyl-CoA carboxylase activity"	GO:0003989
+PF01756	OG0015529	ACOX	"GO:acyl-CoA oxidase activity"	GO:0003997
+PF01756	OG0017963	ACOX	"GO:acyl-CoA oxidase activity"	GO:0003997
+PF12142	OG0016668	PPO1_DWL	"GO:catechol oxidase activity"	GO:0004097
+PF02224	OG0015182	Cytidylate_kin	"GO:cytidylate kinase activity"	GO:0004127
+PF02224	OG0015209	Cytidylate_kin	"GO:cytidylate kinase activity"	GO:0004127
+PF00115	OG0015346	COX1	"GO:cytochrome-c oxidase activity"	GO:0004129
+PF02127	OG0017559	Peptidase_M18	"GO:aminopeptidase activity"	GO:0004177
+PF00450	OG0016850	Peptidase_S10	"GO:serine-type carboxypeptidase activity"	GO:0004185
+PF00450	OG0017665	Peptidase_S10	"GO:serine-type carboxypeptidase activity"	GO:0004185
+PF01080	OG0015089	Presenilin	"GO:aspartic-type endopeptidase activity"	GO:0004190
+PF01080	OG0015688	Presenilin	"GO:aspartic-type endopeptidase activity"	GO:0004190
+PF04258	OG0015247	Peptidase_A22B	"GO:aspartic-type endopeptidase activity"	GO:0004190
+PF00648	OG0016933	Peptidase_C2	"GO:calcium-dependent cysteine-type endopeptidase activity"	GO:0004198
+PF00089	OG0015007	Trypsin	"GO:serine-type endopeptidase activity"	GO:0004252
+PF00089	OG0015383	Trypsin	"GO:serine-type endopeptidase activity"	GO:0004252
+PF00089	OG0018067	Trypsin	"GO:serine-type endopeptidase activity"	GO:0004252
+PF01694	OG0017582	Rhomboid	"GO:serine-type endopeptidase activity"	GO:0004252
+PF02122	OG0016064	Peptidase_S39	"GO:serine-type endopeptidase activity"	GO:0004252
+PF10502	OG0016111	Peptidase_S26	"GO:serine-type endopeptidase activity"	GO:0004252
+PF00342	OG0016236	PGI	"GO:glucose-6-phosphate isomerase activity"	GO:0004347
+PF05088	OG0016882	Bac_GDH	"GO:glutamate dehydrogenase (NAD+) activity"	GO:0004352
+PF13086	OG0016589	AAA_11	"GO:helicase activity"	GO:0004386
+PF04209	OG0017801	HgmA	"GO:homogentisate 1,2-dioxygenase activity"	GO:0004411
+PF00368	OG0015957	HMG-CoA_red	"GO:hydroxymethylglutaryl-CoA reductase (NADPH) activity"	GO:0004420
+PF03030	OG0016887	H_PPase	"GO:inorganic diphosphatase activity"	GO:0004427
+PF03030	OG0016888	H_PPase	"GO:inorganic diphosphatase activity"	GO:0004427
+PF00390	OG0014933	malic	"GO:malate dehydrogenase (decarboxylating) (NAD+) activity"	GO:0004471
+PF01274	OG0017323	Malate_synthase	"GO:malate synthase activity"	GO:0004474
+PF00438	OG0016023	S-AdoMet_synt_N	"GO:methionine adenosyltransferase activity"	GO:0004478
+PF00763	OG0016583	THF_DHG_CYH	"GO:methylenetetrahydrofolate dehydrogenase (NADP+) activity"	GO:0004488
+PF00067	OG0015086	p450	"GO:monooxygenase activity"	GO:0004497
+PF00067	OG0015217	p450	"GO:monooxygenase activity"	GO:0004497
+PF00067	OG0016726	p450	"GO:monooxygenase activity"	GO:0004497
+PF00067	OG0016835	p450	"GO:monooxygenase activity"	GO:0004497
+PF00067	OG0016836	p450	"GO:monooxygenase activity"	GO:0004497
+PF00067	OG0016948	p450	"GO:monooxygenase activity"	GO:0004497
+PF00067	OG0016990	p450	"GO:monooxygenase activity"	GO:0004497
+PF00067	OG0018069	p450	"GO:monooxygenase activity"	GO:0004497
+PF04820	OG0015879	Trp_halogenase	"GO:monooxygenase activity"	GO:0004497
+PF08491	OG0015205	SE	"GO:squalene monooxygenase activity"	GO:0004506
+PF08133	OG0015980	Nuclease_act	"GO:nuclease activity"	GO:0004518
+PF00961	OG0015325	LAGLIDADG_1	"GO:endonuclease activity"	GO:0004519
+PF03852	OG0015775	Vsr	"GO:endonuclease activity"	GO:0004519
+PF13456	OG0015584	RVT_3	"GO:RNA-DNA hybrid ribonuclease activity"	GO:0004523
+PF00150	OG0017013	Cellulase	"GO:hydrolase activity, hydrolyzing O-glycosyl compounds"	GO:0004553
+PF04616	OG0017774	Glyco_hydro_43	"GO:hydrolase activity, hydrolyzing O-glycosyl compounds"	GO:0004553
+PF09154	OG0016422	DUF1939	"GO:hydrolase activity, hydrolyzing O-glycosyl compounds"	GO:0004553
+PF09260	OG0017790	DUF1966	"GO:alpha-amylase activity"	GO:0004556
+PF09260	OG0017845	DUF1966	"GO:alpha-amylase activity"	GO:0004556
+PF01120	OG0016522	Alpha_L_fucos	"GO:alpha-L-fucosidase activity"	GO:0004560
+PF00182	OG0015195	Glyco_hydro_19	"GO:chitinase activity"	GO:0004568
+PF01532	OG0016484	Glyco_hydro_47	"GO:mannosyl-oligosaccharide 1,2-alpha-mannosidase activity"	GO:0004571
+PF03630	OG0017548	Fumble	"GO:pantothenate kinase activity"	GO:0004594
+PF02666	OG0017966	PS_Dcarbxylase	"GO:phosphatidylserine decarboxylase activity"	GO:0004609
+PF00393	OG0016055	6PGD	"GO:phosphogluconate dehydrogenase (decarboxylating) activity"	GO:0004616
+PF02844	OG0015545	GARS_N	"GO:phosphoribosylamine-glycine ligase activity"	GO:0004637
+PF13822	OG0014883	ACC_epsilon	"GO:propionyl-CoA carboxylase activity"	GO:0004658
+PF00069	OG0015005	Pkinase	"GO:protein kinase activity"	GO:0004672
+PF00069	OG0015340	Pkinase	"GO:protein kinase activity"	GO:0004672
+PF00069	OG0016558	Pkinase	"GO:protein kinase activity"	GO:0004672
+PF00069	OG0016842	Pkinase	"GO:protein kinase activity"	GO:0004672
+PF00069	OG0017248	Pkinase	"GO:protein kinase activity"	GO:0004672
+PF07714	OG0015005	PK_Tyr_Ser-Thr	"GO:protein kinase activity"	GO:0004672
+PF07714	OG0016558	PK_Tyr_Ser-Thr	"GO:protein kinase activity"	GO:0004672
+PF07714	OG0016842	PK_Tyr_Ser-Thr	"GO:protein kinase activity"	GO:0004672
+PF07714	OG0017248	PK_Tyr_Ser-Thr	"GO:protein kinase activity"	GO:0004672
+PF07714	OG0017882	PK_Tyr_Ser-Thr	"GO:protein kinase activity"	GO:0004672
+PF08926	OG0016675	DUF1908	"GO:protein serine/threonine kinase activity"	GO:0004674
+PF11640	OG0016981	TAN	"GO:protein serine/threonine kinase activity"	GO:0004674
+PF11640	OG0017804	TAN	"GO:protein serine/threonine kinase activity"	GO:0004674
+PF13350	OG0017646	Y_phosphatase3	"GO:phosphoprotein phosphatase activity"	GO:0004721
+PF00102	OG0017646	Y_phosphatase	"GO:protein tyrosine phosphatase activity"	GO:0004725
+PF04227	OG0017630	Indigoidine_A	"GO:pseudouridylate synthase activity"	GO:0004730
+PF06026	OG0016611	Rib_5-P_isom_A	"GO:ribose-5-phosphate isomerase activity"	GO:0004751
+PF04558	OG0014849	tRNA_synt_1c_R1	"GO:aminoacyl-tRNA ligase activity"	GO:0004812
+PF01921	OG0016286	tRNA-synt_1f	"GO:lysine-tRNA ligase activity"	GO:0004824
+PF09180	OG0015286	ProRS-C_1	"GO:proline-tRNA ligase activity"	GO:0004827
+PF10458	OG0017417	Val_tRNA-synt_C	"GO:valine-tRNA ligase activity"	GO:0004832
+PF04979	OG0016851	IPP-2	"GO:protein phosphatase inhibitor activity"	GO:0004864
+PF00207	OG0016775	A2M	"GO:endopeptidase inhibitor activity"	GO:0004866
+PF00207	OG0016785	A2M	"GO:endopeptidase inhibitor activity"	GO:0004866
+PF09064	OG0016739	Tme5_EGF_like	"GO:transmembrane signaling receptor activity"	GO:0004888
+PF00001	OG0016055	7tm_1	"GO:G protein-coupled receptor activity"	GO:0004930
+PF00001	OG0018006	7tm_1	"GO:G protein-coupled receptor activity"	GO:0004930
+PF00001	OG0018054	7tm_1	"GO:G protein-coupled receptor activity"	GO:0004930
+PF00001	OG0018058	7tm_1	"GO:G protein-coupled receptor activity"	GO:0004930
+PF00001	OG0018064	7tm_1	"GO:G protein-coupled receptor activity"	GO:0004930
+PF00001	OG0018072	7tm_1	"GO:G protein-coupled receptor activity"	GO:0004930
+PF13853	OG0018006	7tm_4	"GO:olfactory receptor activity"	GO:0004984
+PF13853	OG0018054	7tm_4	"GO:olfactory receptor activity"	GO:0004984
+PF13853	OG0018058	7tm_4	"GO:olfactory receptor activity"	GO:0004984
+PF13853	OG0018072	7tm_4	"GO:olfactory receptor activity"	GO:0004984
+PF08767	OG0015421	CRM1_C	"GO:nuclear export signal receptor activity"	GO:0005049
+PF00996	OG0016996	GDI	"GO:GDP-dissociation inhibitor activity"	GO:0005092
+PF00996	OG0018099	GDI	"GO:GDP-dissociation inhibitor activity"	GO:0005092
+PF02115	OG0016447	Rho_GDI	"GO:Rho GDP-dissociation inhibitor activity"	GO:0005094
+PF08702	OG0014921	Fib_alpha	"GO:signaling receptor binding"	GO:0005102
+PF08702	OG0017747	Fib_alpha	"GO:signaling receptor binding"	GO:0005102
+PF00103	OG0015689	Hormone_1	"GO:hormone activity"	GO:0005179
+PF02049	OG0015539	FliE	"GO:structural molecule activity"	GO:0005198
+PF02049	OG0017982	FliE	"GO:structural molecule activity"	GO:0005198
+PF04513	OG0014918	Baculo_PEP_C	"GO:structural molecule activity"	GO:0005198
+PF04513	OG0014921	Baculo_PEP_C	"GO:structural molecule activity"	GO:0005198
+PF04625	OG0016058	DEC-1_N	"GO:structural constituent of egg chorion"	GO:0005213
+PF04625	OG0016466	DEC-1_N	"GO:structural constituent of egg chorion"	GO:0005213
+PF06459	OG0015089	RR_TM4-6	"GO:ryanodine-sensitive calcium-release channel activity"	GO:0005219
+PF01062	OG0015327	Bestrophin	"GO:chloride channel activity"	GO:0005254
+PF03825	OG0016818	Nuc_H_symport	"GO:nucleoside transmembrane transporter activity"	GO:0005337
+PF01306	OG0016818	LacY_symp	"GO:carbohydrate:proton symporter activity"	GO:0005351
+PF06963	OG0018064	FPN1	"GO:iron ion transmembrane transporter activity"	GO:0005381
+PF01988	OG0017198	VIT1	"GO:manganese ion transmembrane transporter activity"	GO:0005384
+PF00067	OG0015086	p450	"GO:iron ion binding"	GO:0005506
+PF00067	OG0015217	p450	"GO:iron ion binding"	GO:0005506
+PF00067	OG0016726	p450	"GO:iron ion binding"	GO:0005506
+PF00067	OG0016835	p450	"GO:iron ion binding"	GO:0005506
+PF00067	OG0016836	p450	"GO:iron ion binding"	GO:0005506
+PF00067	OG0016948	p450	"GO:iron ion binding"	GO:0005506
+PF00067	OG0016990	p450	"GO:iron ion binding"	GO:0005506
+PF00067	OG0018069	p450	"GO:iron ion binding"	GO:0005506
+PF02727	OG0015080	Cu_amine_oxidN2	"GO:copper ion binding"	GO:0005507
+PF02727	OG0015601	Cu_amine_oxidN2	"GO:copper ion binding"	GO:0005507
+PF07731	OG0017707	Cu-oxidase_2	"GO:copper ion binding"	GO:0005507
+PF00028	OG0018011	Cadherin	"GO:calcium ion binding"	GO:0005509
+PF00036	OG0017706	EF-hand_1	"GO:calcium ion binding"	GO:0005509
+PF00036	OG0018021	EF-hand_1	"GO:calcium ion binding"	GO:0005509
+PF01532	OG0016484	Glyco_hydro_47	"GO:calcium ion binding"	GO:0005509
+PF02412	OG0017247	TSP_3	"GO:calcium ion binding"	GO:0005509
+PF09260	OG0017790	DUF1966	"GO:calcium ion binding"	GO:0005509
+PF09260	OG0017845	DUF1966	"GO:calcium ion binding"	GO:0005509
+PF13405	OG0017706	EF-hand_6	"GO:calcium ion binding"	GO:0005509
+PF13405	OG0018021	EF-hand_6	"GO:calcium ion binding"	GO:0005509
+PF13405	OG0018059	EF-hand_6	"GO:calcium ion binding"	GO:0005509
+PF13499	OG0017706	EF-hand_7	"GO:calcium ion binding"	GO:0005509
+PF13499	OG0018021	EF-hand_7	"GO:calcium ion binding"	GO:0005509
+PF13499	OG0018059	EF-hand_7	"GO:calcium ion binding"	GO:0005509
+PF13833	OG0017706	EF-hand_8	"GO:calcium ion binding"	GO:0005509
+PF13833	OG0018021	EF-hand_8	"GO:calcium ion binding"	GO:0005509
+PF00018	OG0017231	SH3_1	"GO:protein binding"	GO:0005515
+PF00018	OG0017374	SH3_1	"GO:protein binding"	GO:0005515
+PF00018	OG0017655	SH3_1	"GO:protein binding"	GO:0005515
+PF00023	OG0014916	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0014917	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0014922	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0014924	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0014981	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0014994	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0014995	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015031	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015048	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015128	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015224	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015232	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015233	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015237	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015412	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015449	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015458	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015461	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015471	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015486	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015502	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015524	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015525	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015572	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015573	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015623	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0015947	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016397	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016398	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016400	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016410	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016499	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016594	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016632	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016633	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016713	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016729	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0016757	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017602	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017733	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017736	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017776	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017790	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017837	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017844	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017845	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017849	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017851	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017868	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017883	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017884	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017886	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017901	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017912	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017914	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0017915	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0018003	Ank	"GO:protein binding"	GO:0005515
+PF00023	OG0018092	Ank	"GO:protein binding"	GO:0005515
+PF00041	OG0017685	fn3	"GO:protein binding"	GO:0005515
+PF00397	OG0015677	WW	"GO:protein binding"	GO:0005515
+PF00397	OG0017621	WW	"GO:protein binding"	GO:0005515
+PF00400	OG0015196	WD40	"GO:protein binding"	GO:0005515
+PF00400	OG0015648	WD40	"GO:protein binding"	GO:0005515
+PF00400	OG0016116	WD40	"GO:protein binding"	GO:0005515
+PF00400	OG0016618	WD40	"GO:protein binding"	GO:0005515
+PF00400	OG0016788	WD40	"GO:protein binding"	GO:0005515
+PF00400	OG0017009	WD40	"GO:protein binding"	GO:0005515
+PF00435	OG0015196	Spectrin	"GO:protein binding"	GO:0005515
+PF00435	OG0017361	Spectrin	"GO:protein binding"	GO:0005515
+PF00439	OG0017173	Bromodomain	"GO:protein binding"	GO:0005515
+PF00439	OG0017229	Bromodomain	"GO:protein binding"	GO:0005515
+PF00439	OG0017605	Bromodomain	"GO:protein binding"	GO:0005515
+PF00515	OG0014928	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0014984	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0015087	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0015400	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0015755	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0016775	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0016785	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0016999	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0017551	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0017982	TPR_1	"GO:protein binding"	GO:0005515
+PF00515	OG0018044	TPR_1	"GO:protein binding"	GO:0005515
+PF00646	OG0015096	F-box	"GO:protein binding"	GO:0005515
+PF00646	OG0017413	F-box	"GO:protein binding"	GO:0005515
+PF00651	OG0016068	BTB	"GO:protein binding"	GO:0005515
+PF00651	OG0016721	BTB	"GO:protein binding"	GO:0005515
+PF00651	OG0016931	BTB	"GO:protein binding"	GO:0005515
+PF00856	OG0017727	SET	"GO:protein binding"	GO:0005515
+PF01335	OG0015400	DED	"GO:protein binding"	GO:0005515
+PF02985	OG0017421	HEAT	"GO:protein binding"	GO:0005515
+PF02985	OG0017804	HEAT	"GO:protein binding"	GO:0005515
+PF05773	OG0016847	RWD	"GO:protein binding"	GO:0005515
+PF07653	OG0017231	SH3_2	"GO:protein binding"	GO:0005515
+PF07653	OG0017374	SH3_2	"GO:protein binding"	GO:0005515
+PF07653	OG0017655	SH3_2	"GO:protein binding"	GO:0005515
+PF08447	OG0017415	PAS_3	"GO:protein binding"	GO:0005515
+PF12763	OG0016881	EF-hand_4	"GO:protein binding"	GO:0005515
+PF12763	OG0017194	EF-hand_4	"GO:protein binding"	GO:0005515
+PF12763	OG0017706	EF-hand_4	"GO:protein binding"	GO:0005515
+PF12796	OG0014916	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0014917	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0014922	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0014924	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0014981	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0014992	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0014994	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0014995	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015031	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015048	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015128	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015224	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015232	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015233	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015237	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015412	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015449	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015458	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015461	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015471	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015486	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015502	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015524	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015525	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015572	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015573	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015623	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015866	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0015947	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016397	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016398	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016400	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016410	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016499	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016594	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016632	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016633	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016713	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016729	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0016757	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017602	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017733	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017736	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017776	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017790	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017837	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017844	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017845	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017849	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017851	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017868	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017883	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017884	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017886	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017901	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017912	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017914	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0017915	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0018003	Ank_2	"GO:protein binding"	GO:0005515
+PF12796	OG0018092	Ank_2	"GO:protein binding"	GO:0005515
+PF12814	OG0017427	Mcp5_PH	"GO:protein binding"	GO:0005515
+PF12937	OG0015096	F-box-like	"GO:protein binding"	GO:0005515
+PF12937	OG0015567	F-box-like	"GO:protein binding"	GO:0005515
+PF12937	OG0016233	F-box-like	"GO:protein binding"	GO:0005515
+PF12937	OG0017413	F-box-like	"GO:protein binding"	GO:0005515
+PF13013	OG0016837	F-box-like_2	"GO:protein binding"	GO:0005515
+PF13174	OG0014928	TPR_6	"GO:protein binding"	GO:0005515
+PF13174	OG0014984	TPR_6	"GO:protein binding"	GO:0005515
+PF13174	OG0015087	TPR_6	"GO:protein binding"	GO:0005515
+PF13174	OG0016775	TPR_6	"GO:protein binding"	GO:0005515
+PF13174	OG0017982	TPR_6	"GO:protein binding"	GO:0005515
+PF13176	OG0014928	TPR_7	"GO:protein binding"	GO:0005515
+PF13176	OG0014984	TPR_7	"GO:protein binding"	GO:0005515
+PF13176	OG0015087	TPR_7	"GO:protein binding"	GO:0005515
+PF13176	OG0015400	TPR_7	"GO:protein binding"	GO:0005515
+PF13176	OG0015494	TPR_7	"GO:protein binding"	GO:0005515
+PF13176	OG0016775	TPR_7	"GO:protein binding"	GO:0005515
+PF13176	OG0016785	TPR_7	"GO:protein binding"	GO:0005515
+PF13176	OG0017982	TPR_7	"GO:protein binding"	GO:0005515
+PF13176	OG0018044	TPR_7	"GO:protein binding"	GO:0005515
+PF13181	OG0014928	TPR_8	"GO:protein binding"	GO:0005515
+PF13181	OG0014984	TPR_8	"GO:protein binding"	GO:0005515
+PF13181	OG0015087	TPR_8	"GO:protein binding"	GO:0005515
+PF13181	OG0015400	TPR_8	"GO:protein binding"	GO:0005515
+PF13181	OG0016775	TPR_8	"GO:protein binding"	GO:0005515
+PF13181	OG0016785	TPR_8	"GO:protein binding"	GO:0005515
+PF13181	OG0017982	TPR_8	"GO:protein binding"	GO:0005515
+PF13181	OG0018044	TPR_8	"GO:protein binding"	GO:0005515
+PF13606	OG0014916	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0014917	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0014922	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0014924	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0014981	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0014994	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0014995	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015031	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015048	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015128	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015224	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015232	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015233	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015237	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015412	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015449	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015458	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015461	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015471	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015486	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015502	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015524	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015525	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015572	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015573	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015623	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0015866	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016397	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016398	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016400	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016410	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016499	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016594	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016632	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016633	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016713	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016729	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0016757	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017602	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017733	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017736	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017776	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017790	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017837	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017844	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017845	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017849	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017851	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017883	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017884	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017886	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017901	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017912	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017914	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0017915	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0018003	Ank_3	"GO:protein binding"	GO:0005515
+PF13606	OG0018092	Ank_3	"GO:protein binding"	GO:0005515
+PF13637	OG0014916	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0014917	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0014922	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0014924	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0014981	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0014994	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0014995	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015031	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015048	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015128	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015224	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015232	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015233	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015237	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015412	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015449	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015458	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015461	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015471	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015486	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015502	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015524	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015525	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015572	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015573	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0015623	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016397	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016398	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016400	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016410	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016499	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016594	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016632	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016633	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016713	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016729	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0016757	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017602	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017733	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017736	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017776	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017790	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017837	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017844	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017845	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017849	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017851	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017868	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017883	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017884	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017886	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017901	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017912	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017914	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0017915	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0018003	Ank_4	"GO:protein binding"	GO:0005515
+PF13637	OG0018092	Ank_4	"GO:protein binding"	GO:0005515
+PF13857	OG0014917	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0014922	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0014924	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0014981	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0014992	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0014994	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0014995	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015031	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015048	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015128	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015224	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015232	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015233	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015412	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015449	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015458	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015461	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015471	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015486	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015502	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015524	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015525	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015572	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015573	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015623	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0015866	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016397	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016398	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016400	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016410	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016499	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016594	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016632	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016633	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016713	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016729	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0016757	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017602	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017733	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017736	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017776	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017790	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017837	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017844	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017845	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017849	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017851	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017883	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017884	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017886	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017901	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017912	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017914	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0017915	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0018003	Ank_5	"GO:protein binding"	GO:0005515
+PF13857	OG0018092	Ank_5	"GO:protein binding"	GO:0005515
+PF14604	OG0017231	SH3_9	"GO:protein binding"	GO:0005515
+PF14604	OG0017374	SH3_9	"GO:protein binding"	GO:0005515
+PF14604	OG0017655	SH3_9	"GO:protein binding"	GO:0005515
+PF00004	OG0015182	AAA	"GO:ATP binding"	GO:0005524
+PF00004	OG0015196	AAA	"GO:ATP binding"	GO:0005524
+PF00004	OG0015209	AAA	"GO:ATP binding"	GO:0005524
+PF00004	OG0016589	AAA	"GO:ATP binding"	GO:0005524
+PF00004	OG0016849	AAA	"GO:ATP binding"	GO:0005524
+PF00004	OG0017047	AAA	"GO:ATP binding"	GO:0005524
+PF00004	OG0017814	AAA	"GO:ATP binding"	GO:0005524
+PF00005	OG0015149	ABC_tran	"GO:ATP binding"	GO:0005524
+PF00005	OG0015182	ABC_tran	"GO:ATP binding"	GO:0005524
+PF00005	OG0015210	ABC_tran	"GO:ATP binding"	GO:0005524
+PF00005	OG0016700	ABC_tran	"GO:ATP binding"	GO:0005524
+PF00005	OG0016849	ABC_tran	"GO:ATP binding"	GO:0005524
+PF00005	OG0017033	ABC_tran	"GO:ATP binding"	GO:0005524
+PF00005	OG0018055	ABC_tran	"GO:ATP binding"	GO:0005524
+PF00006	OG0015182	ATP-synt_ab	"GO:ATP binding"	GO:0005524
+PF00012	OG0015731	HSP70	"GO:ATP binding"	GO:0005524
+PF00063	OG0016770	Myosin_head	"GO:ATP binding"	GO:0005524
+PF00069	OG0015005	Pkinase	"GO:ATP binding"	GO:0005524
+PF00069	OG0015340	Pkinase	"GO:ATP binding"	GO:0005524
+PF00069	OG0016558	Pkinase	"GO:ATP binding"	GO:0005524
+PF00069	OG0016842	Pkinase	"GO:ATP binding"	GO:0005524
+PF00069	OG0017248	Pkinase	"GO:ATP binding"	GO:0005524
+PF00158	OG0016589	Sigma54_activat	"GO:ATP binding"	GO:0005524
+PF00158	OG0018055	Sigma54_activat	"GO:ATP binding"	GO:0005524
+PF00270	OG0015182	DEAD	"GO:ATP binding"	GO:0005524
+PF00270	OG0015215	DEAD	"GO:ATP binding"	GO:0005524
+PF00270	OG0016725	DEAD	"GO:ATP binding"	GO:0005524
+PF00270	OG0017075	DEAD	"GO:ATP binding"	GO:0005524
+PF00270	OG0017761	DEAD	"GO:ATP binding"	GO:0005524
+PF00270	OG0018049	DEAD	"GO:ATP binding"	GO:0005524
+PF00349	OG0016829	Hexokinase_1	"GO:ATP binding"	GO:0005524
+PF00485	OG0015182	PRK	"GO:ATP binding"	GO:0005524
+PF00485	OG0016849	PRK	"GO:ATP binding"	GO:0005524
+PF00664	OG0015182	ABC_membrane	"GO:ATP binding"	GO:0005524
+PF00772	OG0015408	DnaB	"GO:ATP binding"	GO:0005524
+PF01078	OG0016589	Mg_chelatase	"GO:ATP binding"	GO:0005524
+PF01225	OG0017618	Mur_ligase	"GO:ATP binding"	GO:0005524
+PF01443	OG0016849	Viral_helicase1	"GO:ATP binding"	GO:0005524
+PF01443	OG0017047	Viral_helicase1	"GO:ATP binding"	GO:0005524
+PF01580	OG0018055	FtsK_SpoIIIE	"GO:ATP binding"	GO:0005524
+PF01637	OG0015087	ATPase_2	"GO:ATP binding"	GO:0005524
+PF01637	OG0015182	ATPase_2	"GO:ATP binding"	GO:0005524
+PF01637	OG0016849	ATPase_2	"GO:ATP binding"	GO:0005524
+PF01921	OG0016286	tRNA-synt_1f	"GO:ATP binding"	GO:0005524
+PF02224	OG0015182	Cytidylate_kin	"GO:ATP binding"	GO:0005524
+PF02224	OG0015209	Cytidylate_kin	"GO:ATP binding"	GO:0005524
+PF02562	OG0015149	PhoH	"GO:ATP binding"	GO:0005524
+PF02562	OG0015182	PhoH	"GO:ATP binding"	GO:0005524
+PF02562	OG0015196	PhoH	"GO:ATP binding"	GO:0005524
+PF02562	OG0017761	PhoH	"GO:ATP binding"	GO:0005524
+PF02655	OG0016905	ATP-grasp_3	"GO:ATP binding"	GO:0005524
+PF02786	OG0016905	CPSase_L_D2	"GO:ATP binding"	GO:0005524
+PF03135	OG0015015	CagE_TrbE_VirB	"GO:ATP binding"	GO:0005524
+PF03630	OG0017548	Fumble	"GO:ATP binding"	GO:0005524
+PF03969	OG0016567	AFG1_ATPase	"GO:ATP binding"	GO:0005524
+PF04558	OG0014849	tRNA_synt_1c_R1	"GO:ATP binding"	GO:0005524
+PF04851	OG0015149	ResIII	"GO:ATP binding"	GO:0005524
+PF04851	OG0017761	ResIII	"GO:ATP binding"	GO:0005524
+PF05188	OG0015489	MutS_II	"GO:ATP binding"	GO:0005524
+PF06414	OG0015182	Zeta_toxin	"GO:ATP binding"	GO:0005524
+PF06414	OG0015209	Zeta_toxin	"GO:ATP binding"	GO:0005524
+PF06414	OG0015274	Zeta_toxin	"GO:ATP binding"	GO:0005524
+PF06414	OG0016700	Zeta_toxin	"GO:ATP binding"	GO:0005524
+PF06414	OG0017047	Zeta_toxin	"GO:ATP binding"	GO:0005524
+PF06422	OG0016672	PDR_CDR	"GO:ATP binding"	GO:0005524
+PF07517	OG0017761	SecA_DEAD	"GO:ATP binding"	GO:0005524
+PF07724	OG0016589	AAA_2	"GO:ATP binding"	GO:0005524
+PF07728	OG0015182	AAA_5	"GO:ATP binding"	GO:0005524
+PF07728	OG0016589	AAA_5	"GO:ATP binding"	GO:0005524
+PF08147	OG0015087	DBP10CT	"GO:ATP binding"	GO:0005524
+PF08676	OG0014878	MutL_C	"GO:ATP binding"	GO:0005524
+PF08926	OG0016675	DUF1908	"GO:ATP binding"	GO:0005524
+PF09180	OG0015286	ProRS-C_1	"GO:ATP binding"	GO:0005524
+PF10458	OG0017417	Val_tRNA-synt_C	"GO:ATP binding"	GO:0005524
+PF10662	OG0016849	PduV-EutP	"GO:ATP binding"	GO:0005524
+PF10662	OG0017047	PduV-EutP	"GO:ATP binding"	GO:0005524
+PF12619	OG0016616	MCM2_N	"GO:ATP binding"	GO:0005524
+PF13304	OG0015182	AAA_21	"GO:ATP binding"	GO:0005524
+PF13304	OG0015210	AAA_21	"GO:ATP binding"	GO:0005524
+PF14532	OG0018055	Sigma54_activ_2	"GO:ATP binding"	GO:0005524
+PF00448	OG0015182	SRP54	"GO:GTP binding"	GO:0005525
+PF00448	OG0015209	SRP54	"GO:GTP binding"	GO:0005525
+PF00448	OG0016700	SRP54	"GO:GTP binding"	GO:0005525
+PF00735	OG0016849	Septin	"GO:GTP binding"	GO:0005525
+PF00735	OG0017417	Septin	"GO:GTP binding"	GO:0005525
+PF00735	OG0018055	Septin	"GO:GTP binding"	GO:0005525
+PF01926	OG0015182	MMR_HSR1	"GO:GTP binding"	GO:0005525
+PF01926	OG0016700	MMR_HSR1	"GO:GTP binding"	GO:0005525
+PF01926	OG0016849	MMR_HSR1	"GO:GTP binding"	GO:0005525
+PF01926	OG0018055	MMR_HSR1	"GO:GTP binding"	GO:0005525
+PF02421	OG0016849	FeoB_N	"GO:GTP binding"	GO:0005525
+PF02421	OG0018055	FeoB_N	"GO:GTP binding"	GO:0005525
+PF03144	OG0017639	GTP_EFTU_D2	"GO:GTP binding"	GO:0005525
+PF03193	OG0015182	RsgA_GTPase	"GO:GTP binding"	GO:0005525
+PF03193	OG0016849	RsgA_GTPase	"GO:GTP binding"	GO:0005525
+PF03193	OG0018055	RsgA_GTPase	"GO:GTP binding"	GO:0005525
+PF04548	OG0018055	AIG1	"GO:GTP binding"	GO:0005525
+PF05049	OG0018055	IIGP	"GO:GTP binding"	GO:0005525
+PF12814	OG0017427	Mcp5_PH	"GO:phospholipid binding"	GO:0005543
+PF00103	OG0015689	Hormone_1	"GO:extracellular region"	GO:0005576
+PF00734	OG0017202	CBM_1	"GO:extracellular region"	GO:0005576
+PF00734	OG0017239	CBM_1	"GO:extracellular region"	GO:0005576
+PF01442	OG0014921	Apolipoprotein	"GO:extracellular region"	GO:0005576
+PF01442	OG0015232	Apolipoprotein	"GO:extracellular region"	GO:0005576
+PF01442	OG0015412	Apolipoprotein	"GO:extracellular region"	GO:0005576
+PF01442	OG0015623	Apolipoprotein	"GO:extracellular region"	GO:0005576
+PF01442	OG0016594	Apolipoprotein	"GO:extracellular region"	GO:0005576
+PF01442	OG0016632	Apolipoprotein	"GO:extracellular region"	GO:0005576
+PF01442	OG0017361	Apolipoprotein	"GO:extracellular region"	GO:0005576
+PF01442	OG0017912	Apolipoprotein	"GO:extracellular region"	GO:0005576
+PF02278	OG0017156	Lyase_8	"GO:extracellular region"	GO:0005576
+PF02950	OG0017377	Conotoxin	"GO:extracellular region"	GO:0005576
+PF04625	OG0016058	DEC-1_N	"GO:extracellular region"	GO:0005576
+PF04625	OG0016466	DEC-1_N	"GO:extracellular region"	GO:0005576
+PF05778	OG0015733	Apo-CIII	"GO:extracellular region"	GO:0005576
+PF07174	OG0015583	FAP	"GO:extracellular region"	GO:0005576
+PF07464	OG0014921	ApoLp-III	"GO:extracellular region"	GO:0005576
+PF07464	OG0017465	ApoLp-III	"GO:extracellular region"	GO:0005576
+PF08116	OG0017377	Toxin_29	"GO:extracellular region"	GO:0005576
+PF14980	OG0015156	TIP39	"GO:extracellular region"	GO:0005576
+PF08702	OG0014921	Fib_alpha	"GO:fibrinogen complex"	GO:0005577
+PF08702	OG0017747	Fib_alpha	"GO:fibrinogen complex"	GO:0005577
+PF10425	OG0015380	SdrG_C_C	"GO:cell wall"	GO:0005618
+PF01101	OG0018060	HMG14_17	"GO:nucleus"	GO:0005634
+PF01393	OG0014990	Chromo_shadow	"GO:nucleus"	GO:0005634
+PF01393	OG0017998	Chromo_shadow	"GO:nucleus"	GO:0005634
+PF01858	OG0015087	RB_A	"GO:nucleus"	GO:0005634
+PF02079	OG0014973	TP1	"GO:nucleus"	GO:0005634
+PF02079	OG0015022	TP1	"GO:nucleus"	GO:0005634
+PF02079	OG0015295	TP1	"GO:nucleus"	GO:0005634
+PF02079	OG0015746	TP1	"GO:nucleus"	GO:0005634
+PF02079	OG0016790	TP1	"GO:nucleus"	GO:0005634
+PF02079	OG0016926	TP1	"GO:nucleus"	GO:0005634
+PF02079	OG0017243	TP1	"GO:nucleus"	GO:0005634
+PF02079	OG0017965	TP1	"GO:nucleus"	GO:0005634
+PF02079	OG0018038	TP1	"GO:nucleus"	GO:0005634
+PF02079	OG0018085	TP1	"GO:nucleus"	GO:0005634
+PF03172	OG0017498	HSR	"GO:nucleus"	GO:0005634
+PF03943	OG0017783	TAP_C	"GO:nucleus"	GO:0005634
+PF04065	OG0015575	Not3	"GO:nucleus"	GO:0005634
+PF04689	OG0015370	S1FA	"GO:nucleus"	GO:0005634
+PF04769	OG0017089	MATalpha_HMGbox	"GO:nucleus"	GO:0005634
+PF06524	OG0014866	NOA36	"GO:nucleus"	GO:0005634
+PF07780	OG0017233	Spb1_C	"GO:nucleus"	GO:0005634
+PF08147	OG0015087	DBP10CT	"GO:nucleus"	GO:0005634
+PF08159	OG0015287	NUC153	"GO:nucleus"	GO:0005634
+PF09111	OG0015153	SLIDE	"GO:nucleus"	GO:0005634
+PF09507	OG0017069	CDC27	"GO:nucleus"	GO:0005634
+PF11802	OG0014862	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0014951	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0015133	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0015222	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0015430	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0015491	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0015569	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0015734	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0016503	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0016944	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0017892	CENP-K	"GO:nucleus"	GO:0005634
+PF11802	OG0018093	CENP-K	"GO:nucleus"	GO:0005634
+PF12619	OG0016616	MCM2_N	"GO:nucleus"	GO:0005634
+PF14612	OG0015339	Ino80_Iec3	"GO:nucleus"	GO:0005634
+PF04096	OG0017496	Nucleoporin2	"GO:nuclear pore"	GO:0005643
+PF05132	OG0016044	RNA_pol_Rpc4	"GO:RNA polymerase III complex"	GO:0005666
+PF02268	OG0015963	TFIIA_gamma_N	"GO:transcription factor TFIIA complex"	GO:0005672
+PF03153	OG0015555	TFIIA	"GO:transcription factor TFIIA complex"	GO:0005672
+PF12861	OG0017196	zf-ANAPC11	"GO:anaphase-promoting complex"	GO:0005680
+PF04889	OG0015153	Cwf_Cwc_15	"GO:spliceosomal complex"	GO:0005681
+PF09384	OG0015232	UTP15_C	"GO:nucleolus"	GO:0005730
+PF01921	OG0016286	tRNA-synt_1f	"GO:cytoplasm"	GO:0005737
+PF02115	OG0016447	Rho_GDI	"GO:cytoplasm"	GO:0005737
+PF04558	OG0014849	tRNA_synt_1c_R1	"GO:cytoplasm"	GO:0005737
+PF05091	OG0015089	eIF-3_zeta	"GO:cytoplasm"	GO:0005737
+PF06005	OG0016861	ZapB	"GO:cytoplasm"	GO:0005737
+PF06005	OG0017042	ZapB	"GO:cytoplasm"	GO:0005737
+PF09180	OG0015286	ProRS-C_1	"GO:cytoplasm"	GO:0005737
+PF10458	OG0017417	Val_tRNA-synt_C	"GO:cytoplasm"	GO:0005737
+PF06644	OG0017476	ATP11	"GO:mitochondrion"	GO:0005739
+PF07225	OG0015623	NDUF_B4	"GO:mitochondrion"	GO:0005739
+PF09803	OG0017764	Pet100	"GO:mitochondrion"	GO:0005739
+PF15184	OG0015448	TOM6p	"GO:mitochondrial outer membrane translocase complex"	GO:0005742
+PF02284	OG0016865	COX5A	"GO:mitochondrial inner membrane"	GO:0005743
+PF04418	OG0015936	DUF543	"GO:mitochondrial inner membrane"	GO:0005743
+PF08118	OG0016111	MDM31_MDM32	"GO:mitochondrial inner membrane"	GO:0005743
+PF14611	OG0015213	SLS	"GO:mitochondrial inner membrane"	GO:0005743
+PF02284	OG0016865	COX5A	"GO:mitochondrial respiratory chain complex IV"	GO:0005751
+PF14943	OG0015164	MRP-S26	"GO:mitochondrial small ribosomal subunit"	GO:0005763
+PF14943	OG0017660	MRP-S26	"GO:mitochondrial small ribosomal subunit"	GO:0005763
+PF15014	OG0015813	CLN5	"GO:lysosome"	GO:0005764
+PF01756	OG0015529	ACOX	"GO:peroxisome"	GO:0005777
+PF01756	OG0017963	ACOX	"GO:peroxisome"	GO:0005777
+PF04614	OG0017804	Pex19	"GO:peroxisome"	GO:0005777
+PF08320	OG0015381	PIG-X	"GO:endoplasmic reticulum membrane"	GO:0005789
+PF15168	OG0017296	TRIQK	"GO:endoplasmic reticulum membrane"	GO:0005789
+PF04136	OG0017692	Sec34	"GO:cis-Golgi network"	GO:0005801
+PF00468	OG0015100	Ribosomal_L34	"GO:ribosome"	GO:0005840
+PF00573	OG0017620	Ribosomal_L4	"GO:ribosome"	GO:0005840
+PF01667	OG0016772	Ribosomal_S27e	"GO:ribosome"	GO:0005840
+PF01929	OG0016844	Ribosomal_L14e	"GO:ribosome"	GO:0005840
+PF03719	OG0016841	Ribosomal_S5_C	"GO:ribosome"	GO:0005840
+PF17144	OG0015524	Ribosomal_L5e	"GO:ribosome"	GO:0005840
+PF17144	OG0016713	Ribosomal_L5e	"GO:ribosome"	GO:0005840
+PF05091	OG0015089	eIF-3_zeta	"GO:eukaryotic translation initiation factor 3 complex"	GO:0005852
+PF05470	OG0016812	eIF-3c_N	"GO:eukaryotic translation initiation factor 3 complex"	GO:0005852
+PF05470	OG0017312	eIF-3c_N	"GO:eukaryotic translation initiation factor 3 complex"	GO:0005852
+PF00681	OG0018070	Plectin	"GO:cytoskeleton"	GO:0005856
+PF04912	OG0016861	Dynamitin	"GO:dynactin complex"	GO:0005869
+PF05502	OG0016441	Dynactin_p62	"GO:dynactin complex"	GO:0005869
+PF07426	OG0016557	Dynactin_p22	"GO:dynactin complex"	GO:0005869
+PF04699	OG0016440	P16-Arc	"GO:Arp2/3 protein complex"	GO:0005885
+PF04357	OG0017549	TamB	"GO:integral component of plasma membrane"	GO:0005887
+PF12814	OG0017427	Mcp5_PH	"GO:cell cortex"	GO:0005938
+PF06160	OG0014971	EzrA	"GO:septin ring"	GO:0005940
+PF06160	OG0015015	EzrA	"GO:septin ring"	GO:0005940
+PF01214	OG0016846	CK_II_beta	"GO:protein kinase CK2 complex"	GO:0005956
+PF00128	OG0016591	Alpha-amylase	"GO:carbohydrate metabolic process"	GO:0005975
+PF00349	OG0016829	Hexokinase_1	"GO:carbohydrate metabolic process"	GO:0005975
+PF00704	OG0017105	Glyco_hydro_18	"GO:carbohydrate metabolic process"	GO:0005975
+PF00704	OG0017973	Glyco_hydro_18	"GO:carbohydrate metabolic process"	GO:0005975
+PF00734	OG0017202	CBM_1	"GO:carbohydrate metabolic process"	GO:0005975
+PF00734	OG0017239	CBM_1	"GO:carbohydrate metabolic process"	GO:0005975
+PF01116	OG0016477	F_bP_aldolase	"GO:carbohydrate metabolic process"	GO:0005975
+PF01120	OG0016522	Alpha_L_fucos	"GO:carbohydrate metabolic process"	GO:0005975
+PF04616	OG0017774	Glyco_hydro_43	"GO:carbohydrate metabolic process"	GO:0005975
+PF00982	OG0017619	Glyco_transf_20	"GO:trehalose biosynthetic process"	GO:0005992
+PF00182	OG0015195	Glyco_hydro_19	"GO:chitin catabolic process"	GO:0006032
+PF03427	OG0016271	CBM_19	"GO:chitin catabolic process"	GO:0006032
+PF02614	OG0017264	UxaC	"GO:glucuronate catabolic process"	GO:0006064
+PF02550	OG0015358	AcetylCoA_hydro	"GO:acetate metabolic process"	GO:0006083
+PF00342	OG0016236	PGI	"GO:gluconeogenesis"	GO:0006094
+PF00342	OG0016236	PGI	"GO:glycolytic process"	GO:0006096
+PF01274	OG0017323	Malate_synthase	"GO:glyoxylate cycle"	GO:0006097
+PF00393	OG0016055	6PGD	"GO:pentose-phosphate shunt"	GO:0006098
+PF02284	OG0016865	COX5A	"GO:mitochondrial electron transport, cytochrome c to oxygen"	GO:0006123
+PF02224	OG0015182	Cytidylate_kin	"GO:nucleobase-containing compound metabolic process"	GO:0006139
+PF02224	OG0015209	Cytidylate_kin	"GO:nucleobase-containing compound metabolic process"	GO:0006139
+PF00772	OG0015408	DnaB	"GO:DNA replication"	GO:0006260
+PF00799	OG0017923	Gemini_AL1	"GO:DNA replication"	GO:0006260
+PF03175	OG0015364	DNA_pol_B_2	"GO:DNA replication"	GO:0006260
+PF05840	OG0017923	Phage_GPA	"GO:DNA replication"	GO:0006260
+PF06156	OG0014918	YabA	"GO:DNA replication"	GO:0006260
+PF06156	OG0015015	YabA	"GO:DNA replication"	GO:0006260
+PF06156	OG0016861	YabA	"GO:DNA replication"	GO:0006260
+PF06156	OG0017946	YabA	"GO:DNA replication"	GO:0006260
+PF09507	OG0017069	CDC27	"GO:DNA replication"	GO:0006260
+PF01051	OG0017194	Rep_3	"GO:DNA replication initiation"	GO:0006270
+PF02724	OG0015089	CDC45	"GO:DNA replication initiation"	GO:0006270
+PF12619	OG0016616	MCM2_N	"GO:DNA replication initiation"	GO:0006270
+PF10723	OG0015070	RepB-RCR_reg	"GO:plasmid maintenance"	GO:0006276
+PF00817	OG0016251	IMS	"GO:DNA repair"	GO:0006281
+PF02565	OG0017809	RecO_C	"GO:DNA repair"	GO:0006281
+PF04679	OG0017389	DNA_ligase_A_C	"GO:DNA repair"	GO:0006281
+PF05496	OG0017047	RuvB_N	"GO:DNA repair"	GO:0006281
+PF03852	OG0015775	Vsr	"GO:mismatch repair"	GO:0006298
+PF05188	OG0015489	MutS_II	"GO:mismatch repair"	GO:0006298
+PF08676	OG0014878	MutL_C	"GO:mismatch repair"	GO:0006298
+PF02565	OG0017809	RecO_C	"GO:DNA recombination"	GO:0006310
+PF02796	OG0017410	HTH_7	"GO:DNA recombination"	GO:0006310
+PF04679	OG0017389	DNA_ligase_A_C	"GO:DNA recombination"	GO:0006310
+PF05496	OG0017047	RuvB_N	"GO:DNA recombination"	GO:0006310
+PF09111	OG0015153	SLIDE	"GO:chromatin remodeling"	GO:0006338
+PF14612	OG0015339	Ino80_Iec3	"GO:chromatin remodeling"	GO:0006338
+PF01191	OG0016819	RNA_pol_Rpb5_C	"GO:transcription, DNA-templated"	GO:0006351
+PF04082	OG0015168	Fungal_trans	"GO:transcription, DNA-templated"	GO:0006351
+PF04082	OG0015204	Fungal_trans	"GO:transcription, DNA-templated"	GO:0006351
+PF04082	OG0016733	Fungal_trans	"GO:transcription, DNA-templated"	GO:0006351
+PF04997	OG0015617	RNA_pol_Rpb1_1	"GO:transcription, DNA-templated"	GO:0006351
+PF04998	OG0017230	RNA_pol_Rpb1_5	"GO:transcription, DNA-templated"	GO:0006351
+PF07498	OG0016267	Rho_N	"GO:DNA-templated transcription, termination"	GO:0006353
+PF00126	OG0015380	HTH_1	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00126	OG0018082	HTH_1	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00158	OG0016589	Sigma54_activat	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00158	OG0018055	Sigma54_activat	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00170	OG0015704	bZIP_1	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00170	OG0016861	bZIP_1	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00172	OG0015167	Zn_clus	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00172	OG0015204	Zn_clus	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00172	OG0015206	Zn_clus	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00172	OG0016493	Zn_clus	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00172	OG0016733	Zn_clus	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00172	OG0017007	Zn_clus	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00172	OG0017022	Zn_clus	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00392	OG0015371	GntR	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00424	OG0015606	REV	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00486	OG0014928	Trans_reg_C	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF00989	OG0017415	PAS	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF01371	OG0017410	Trp_repressor	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF02183	OG0016861	HALZ	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF02257	OG0017431	RFX_DNA_binding	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF03165	OG0017817	MH1	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF04065	OG0015575	Not3	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF04153	OG0017572	NOT2_3_5	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF04689	OG0015370	S1FA	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF05920	OG0014850	Homeobox_KN	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF05920	OG0015014	Homeobox_KN	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF07716	OG0015704	bZIP_2	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF09005	OG0014928	DUF1897	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF09005	OG0015087	DUF1897	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF09339	OG0017783	HTH_IclR	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF09738	OG0017361	LRRFIP	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF12802	OG0017918	MarR_2	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF14532	OG0018055	Sigma54_activ_2	"GO:regulation of transcription, DNA-templated"	GO:0006355
+PF06333	OG0017828	Med13_C	"GO:regulation of transcription by RNA polymerase II"	GO:0006357
+PF07544	OG0015196	Med9	"GO:regulation of transcription by RNA polymerase II"	GO:0006357
+PF09637	OG0017408	Med18	"GO:regulation of transcription by RNA polymerase II"	GO:0006357
+PF05327	OG0017529	RRN3	"GO:transcription initiation from RNA polymerase I promoter"	GO:0006361
+PF07780	OG0017233	Spb1_C	"GO:rRNA processing"	GO:0006364
+PF09384	OG0015232	UTP15_C	"GO:rRNA processing"	GO:0006364
+PF02269	OG0017507	TFIID-18kDa	"GO:transcription by RNA polymerase II"	GO:0006366
+PF02268	OG0015963	TFIIA_gamma_N	"GO:transcription initiation from RNA polymerase II promoter"	GO:0006367
+PF03153	OG0015555	TFIIA	"GO:transcription initiation from RNA polymerase II promoter"	GO:0006367
+PF07571	OG0017915	TAF6_C	"GO:transcription initiation from RNA polymerase II promoter"	GO:0006367
+PF03985	OG0017363	Paf1	"GO:transcription elongation from RNA polymerase II promoter"	GO:0006368
+PF05132	OG0016044	RNA_pol_Rpc4	"GO:transcription by RNA polymerase III"	GO:0006383
+PF09429	OG0017472	Wbp11	"GO:RNA processing"	GO:0006396
+PF07713	OG0016600	DUF1604	"GO:mRNA processing"	GO:0006397
+PF04446	OG0016187	Thg1	"GO:tRNA modification"	GO:0006400
+PF04446	OG0016588	Thg1	"GO:tRNA modification"	GO:0006400
+PF00189	OG0015827	Ribosomal_S3_C	"GO:translation"	GO:0006412
+PF00468	OG0015100	Ribosomal_L34	"GO:translation"	GO:0006412
+PF00573	OG0017620	Ribosomal_L4	"GO:translation"	GO:0006412
+PF01667	OG0016772	Ribosomal_S27e	"GO:translation"	GO:0006412
+PF01783	OG0016297	Ribosomal_L32p	"GO:translation"	GO:0006412
+PF01929	OG0016844	Ribosomal_L14e	"GO:translation"	GO:0006412
+PF03719	OG0016841	Ribosomal_S5_C	"GO:translation"	GO:0006412
+PF17144	OG0015524	Ribosomal_L5e	"GO:translation"	GO:0006412
+PF17144	OG0016713	Ribosomal_L5e	"GO:translation"	GO:0006412
+PF01873	OG0017578	eIF-5_eIF-2B	"GO:translational initiation"	GO:0006413
+PF05470	OG0016812	eIF-3c_N	"GO:translational initiation"	GO:0006413
+PF05470	OG0017312	eIF-3c_N	"GO:translational initiation"	GO:0006413
+PF04558	OG0014849	tRNA_synt_1c_R1	"GO:tRNA aminoacylation for protein translation"	GO:0006418
+PF01921	OG0016286	tRNA-synt_1f	"GO:lysyl-tRNA aminoacylation"	GO:0006430
+PF09180	OG0015286	ProRS-C_1	"GO:prolyl-tRNA aminoacylation"	GO:0006433
+PF10458	OG0017417	Val_tRNA-synt_C	"GO:valyl-tRNA aminoacylation"	GO:0006438
+PF01920	OG0014918	Prefoldin_2	"GO:protein folding"	GO:0006457
+PF01920	OG0017361	Prefoldin_2	"GO:protein folding"	GO:0006457
+PF01920	OG0017465	Prefoldin_2	"GO:protein folding"	GO:0006457
+PF10502	OG0016111	Peptidase_S26	"GO:signal peptide processing"	GO:0006465
+PF00069	OG0015005	Pkinase	"GO:protein phosphorylation"	GO:0006468
+PF00069	OG0015340	Pkinase	"GO:protein phosphorylation"	GO:0006468
+PF00069	OG0016558	Pkinase	"GO:protein phosphorylation"	GO:0006468
+PF00069	OG0016842	Pkinase	"GO:protein phosphorylation"	GO:0006468
+PF00069	OG0017248	Pkinase	"GO:protein phosphorylation"	GO:0006468
+PF07714	OG0015005	PK_Tyr_Ser-Thr	"GO:protein phosphorylation"	GO:0006468
+PF07714	OG0016558	PK_Tyr_Ser-Thr	"GO:protein phosphorylation"	GO:0006468
+PF07714	OG0016842	PK_Tyr_Ser-Thr	"GO:protein phosphorylation"	GO:0006468
+PF07714	OG0017248	PK_Tyr_Ser-Thr	"GO:protein phosphorylation"	GO:0006468
+PF07714	OG0017882	PK_Tyr_Ser-Thr	"GO:protein phosphorylation"	GO:0006468
+PF08926	OG0016675	DUF1908	"GO:protein phosphorylation"	GO:0006468
+PF00102	OG0017646	Y_phosphatase	"GO:protein dephosphorylation"	GO:0006470
+PF05251	OG0016471	Ost5	"GO:protein N-linked glycosylation"	GO:0006487
+PF06423	OG0016055	GWT1	"GO:GPI anchor biosynthetic process"	GO:0006506
+PF08320	OG0015381	PIG-X	"GO:GPI anchor biosynthetic process"	GO:0006506
+PF00082	OG0017398	Peptidase_S8	"GO:proteolysis"	GO:0006508
+PF00089	OG0015007	Trypsin	"GO:proteolysis"	GO:0006508
+PF00089	OG0015383	Trypsin	"GO:proteolysis"	GO:0006508
+PF00089	OG0018067	Trypsin	"GO:proteolysis"	GO:0006508
+PF00326	OG0017368	Peptidase_S9	"GO:proteolysis"	GO:0006508
+PF00450	OG0016850	Peptidase_S10	"GO:proteolysis"	GO:0006508
+PF00450	OG0017665	Peptidase_S10	"GO:proteolysis"	GO:0006508
+PF00648	OG0016933	Peptidase_C2	"GO:proteolysis"	GO:0006508
+PF02127	OG0017559	Peptidase_M18	"GO:proteolysis"	GO:0006508
+PF00888	OG0015258	Cullin	"GO:ubiquitin-dependent protein catabolic process"	GO:0006511
+PF10584	OG0015196	Proteasome_A_N	"GO:ubiquitin-dependent protein catabolic process"	GO:0006511
+PF10584	OG0015720	Proteasome_A_N	"GO:ubiquitin-dependent protein catabolic process"	GO:0006511
+PF10584	OG0016788	Proteasome_A_N	"GO:ubiquitin-dependent protein catabolic process"	GO:0006511
+PF00208	OG0016882	ELFV_dehydrog	"GO:cellular amino acid metabolic process"	GO:0006520
+PF02729	OG0016876	OTCace_N	"GO:cellular amino acid metabolic process"	GO:0006520
+PF02812	OG0016708	ELFV_dehydrog_N	"GO:cellular amino acid metabolic process"	GO:0006520
+PF02812	OG0017996	ELFV_dehydrog_N	"GO:cellular amino acid metabolic process"	GO:0006520
+PF00438	OG0016023	S-AdoMet_synt_N	"GO:S-adenosylmethionine biosynthetic process"	GO:0006556
+PF04209	OG0017801	HgmA	"GO:L-phenylalanine catabolic process"	GO:0006559
+PF04209	OG0017801	HgmA	"GO:tyrosine metabolic process"	GO:0006570
+PF10662	OG0016849	PduV-EutP	"GO:cellular biogenic amine metabolic process"	GO:0006576
+PF10662	OG0017047	PduV-EutP	"GO:cellular biogenic amine metabolic process"	GO:0006576
+PF07926	OG0014918	TPR_MLP1_2	"GO:protein import into nucleus"	GO:0006606
+PF07926	OG0017042	TPR_MLP1_2	"GO:protein import into nucleus"	GO:0006606
+PF00448	OG0015182	SRP54	"GO:SRP-dependent cotranslational protein targeting to membrane"	GO:0006614
+PF00448	OG0015209	SRP54	"GO:SRP-dependent cotranslational protein targeting to membrane"	GO:0006614
+PF00448	OG0016700	SRP54	"GO:SRP-dependent cotranslational protein targeting to membrane"	GO:0006614
+PF01734	OG0015599	Patatin	"GO:lipid metabolic process"	GO:0006629
+PF02450	OG0016974	LCAT	"GO:lipid metabolic process"	GO:0006629
+PF02737	OG0016524	3HCDH_N	"GO:fatty acid metabolic process"	GO:0006631
+PF02737	OG0017000	3HCDH_N	"GO:fatty acid metabolic process"	GO:0006631
+PF02504	OG0016894	FA_synthesis	"GO:fatty acid biosynthetic process"	GO:0006633
+PF02504	OG0016895	FA_synthesis	"GO:fatty acid biosynthetic process"	GO:0006633
+PF01756	OG0015529	ACOX	"GO:fatty acid beta-oxidation"	GO:0006635
+PF01756	OG0017963	ACOX	"GO:fatty acid beta-oxidation"	GO:0006635
+PF01073	OG0015067	3Beta_HSD	"GO:steroid biosynthetic process"	GO:0006694
+PF01073	OG0015192	3Beta_HSD	"GO:steroid biosynthetic process"	GO:0006694
+PF01073	OG0015216	3Beta_HSD	"GO:steroid biosynthetic process"	GO:0006694
+PF10414	OG0016379	CysG_dimeriser	"GO:porphyrin-containing compound biosynthetic process"	GO:0006779
+PF00080	OG0016860	Sod_Cu	"GO:superoxide metabolic process"	GO:0006801
+PF03522	OG0015089	SLC12	"GO:ion transport"	GO:0006811
+PF02254	OG0016500	TrkA_N	"GO:potassium ion transport"	GO:0006813
+PF01442	OG0014921	Apolipoprotein	"GO:lipid transport"	GO:0006869
+PF01442	OG0015232	Apolipoprotein	"GO:lipid transport"	GO:0006869
+PF01442	OG0015412	Apolipoprotein	"GO:lipid transport"	GO:0006869
+PF01442	OG0015623	Apolipoprotein	"GO:lipid transport"	GO:0006869
+PF01442	OG0016594	Apolipoprotein	"GO:lipid transport"	GO:0006869
+PF01442	OG0016632	Apolipoprotein	"GO:lipid transport"	GO:0006869
+PF01442	OG0017361	Apolipoprotein	"GO:lipid transport"	GO:0006869
+PF01442	OG0017912	Apolipoprotein	"GO:lipid transport"	GO:0006869
+PF05778	OG0015733	Apo-CIII	"GO:lipid transport"	GO:0006869
+PF07464	OG0014921	ApoLp-III	"GO:lipid transport"	GO:0006869
+PF07464	OG0017465	ApoLp-III	"GO:lipid transport"	GO:0006869
+PF06459	OG0015089	RR_TM4-6	"GO:cellular calcium ion homeostasis"	GO:0006874
+PF01602	OG0016444	Adaptin_N	"GO:intracellular protein transport"	GO:0006886
+PF01602	OG0017804	Adaptin_N	"GO:intracellular protein transport"	GO:0006886
+PF03810	OG0017226	IBN_N	"GO:intracellular protein transport"	GO:0006886
+PF04136	OG0017692	Sec34	"GO:intracellular protein transport"	GO:0006886
+PF04871	OG0017692	Uso1_p115_C	"GO:intracellular protein transport"	GO:0006886
+PF10392	OG0017692	COG5	"GO:intra-Golgi vesicle-mediated transport"	GO:0006891
+PF04096	OG0017496	Nucleoporin2	"GO:nucleocytoplasmic transport"	GO:0006913
+PF08961	OG0016861	NRBF2	"GO:autophagy"	GO:0006914
+PF02203	OG0016430	TarH	"GO:chemotaxis"	GO:0006935
+PF08118	OG0016111	MDM31_MDM32	"GO:mitochondrion organization"	GO:0007005
+PF01213	OG0014912	CAP_N	"GO:cytoskeleton organization"	GO:0007010
+PF01221	OG0016852	Dynein_light	"GO:microtubule-based process"	GO:0007017
+PF04912	OG0016861	Dynamitin	"GO:microtubule-based process"	GO:0007017
+PF07160	OG0014918	SKA1	"GO:chromosome segregation"	GO:0007059
+PF05557	OG0014918	MAD	"GO:mitotic spindle assembly checkpoint signaling"	GO:0007094
+PF15233	OG0016841	SYCE1	"GO:synaptonemal complex assembly"	GO:0007130
+PF02412	OG0017247	TSP_3	"GO:cell adhesion"	GO:0007155
+PF04923	OG0018064	Ninjurin	"GO:cell adhesion"	GO:0007155
+PF10425	OG0015380	SdrG_C_C	"GO:cell adhesion"	GO:0007155
+PF00028	OG0018011	Cadherin	"GO:homophilic cell adhesion via plasma membrane adhesion molecules"	GO:0007156
+PF00512	OG0015606	HisKA	"GO:signal transduction"	GO:0007165
+PF00512	OG0016521	HisKA	"GO:signal transduction"	GO:0007165
+PF02185	OG0016779	HR1	"GO:signal transduction"	GO:0007165
+PF02203	OG0016430	TarH	"GO:signal transduction"	GO:0007165
+PF16818	OG0015346	SLM4	"GO:signal transduction"	GO:0007165
+PF00001	OG0016055	7tm_1	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF00001	OG0018006	7tm_1	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF00001	OG0018054	7tm_1	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF00001	OG0018058	7tm_1	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF00001	OG0018064	7tm_1	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF00001	OG0018072	7tm_1	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF00503	OG0015182	G-alpha	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF00503	OG0015210	G-alpha	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF00503	OG0016692	G-alpha	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF13853	OG0018006	7tm_4	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF13853	OG0018054	7tm_4	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF13853	OG0018058	7tm_4	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF13853	OG0018072	7tm_4	"GO:G protein-coupled receptor signaling pathway"	GO:0007186
+PF14980	OG0015156	TIP39	"GO:neuropeptide signaling pathway"	GO:0007218
+PF12297	OG0016603	EVC2_like	"GO:smoothened signaling pathway"	GO:0007224
+PF00996	OG0016996	GDI	"GO:small GTPase mediated signal transduction"	GO:0007264
+PF00996	OG0018099	GDI	"GO:small GTPase mediated signal transduction"	GO:0007264
+PF02513	OG0017990	Spin-Ssty	"GO:gamete generation"	GO:0007276
+PF02079	OG0014973	TP1	"GO:spermatogenesis"	GO:0007283
+PF02079	OG0015022	TP1	"GO:spermatogenesis"	GO:0007283
+PF02079	OG0015295	TP1	"GO:spermatogenesis"	GO:0007283
+PF02079	OG0015746	TP1	"GO:spermatogenesis"	GO:0007283
+PF02079	OG0016790	TP1	"GO:spermatogenesis"	GO:0007283
+PF02079	OG0016926	TP1	"GO:spermatogenesis"	GO:0007283
+PF02079	OG0017243	TP1	"GO:spermatogenesis"	GO:0007283
+PF02079	OG0017965	TP1	"GO:spermatogenesis"	GO:0007283
+PF02079	OG0018038	TP1	"GO:spermatogenesis"	GO:0007283
+PF02079	OG0018085	TP1	"GO:spermatogenesis"	GO:0007283
+PF04625	OG0016058	DEC-1_N	"GO:chorion-containing eggshell formation"	GO:0007304
+PF04625	OG0016466	DEC-1_N	"GO:chorion-containing eggshell formation"	GO:0007304
+PF15203	OG0016868	TMEM95	"GO:fusion of sperm to egg plasma membrane involved in single fertilization"	GO:0007342
+PF04769	OG0017089	MATalpha_HMGbox	"GO:mating type determination"	GO:0007531
+PF06657	OG0015130	Cep57_MT_bd	"GO:microtubule binding"	GO:0008017
+PF07160	OG0014918	SKA1	"GO:microtubule binding"	GO:0008017
+PF03427	OG0016271	CBM_19	"GO:chitin binding"	GO:0008061
+PF04692	OG0015130	PDGF_N	"GO:growth factor activity"	GO:0008083
+PF17144	OG0015524	Ribosomal_L5e	"GO:5S rRNA binding"	GO:0008097
+PF17144	OG0016713	Ribosomal_L5e	"GO:5S rRNA binding"	GO:0008097
+PF02727	OG0015080	Cu_amine_oxidN2	"GO:primary amine oxidase activity"	GO:0008131
+PF02727	OG0015601	Cu_amine_oxidN2	"GO:primary amine oxidase activity"	GO:0008131
+PF00158	OG0016589	Sigma54_activat	"GO:transcription factor binding"	GO:0008134
+PF00158	OG0018055	Sigma54_activat	"GO:transcription factor binding"	GO:0008134
+PF10473	OG0014918	CENP-F_leu_zip	"GO:transcription factor binding"	GO:0008134
+PF10473	OG0016861	CENP-F_leu_zip	"GO:transcription factor binding"	GO:0008134
+PF10473	OG0017042	CENP-F_leu_zip	"GO:transcription factor binding"	GO:0008134
+PF10473	OG0017361	CENP-F_leu_zip	"GO:transcription factor binding"	GO:0008134
+PF14532	OG0018055	Sigma54_activ_2	"GO:transcription factor binding"	GO:0008134
+PF00782	OG0017646	DSPc	"GO:protein tyrosine/serine/threonine phosphatase activity"	GO:0008138
+PF01209	OG0015187	Ubie_methyltran	"GO:methyltransferase activity"	GO:0008168
+PF04252	OG0016555	RNA_Me_trans	"GO:methyltransferase activity"	GO:0008168
+PF05148	OG0017471	Methyltransf_8	"GO:methyltransferase activity"	GO:0008168
+PF07780	OG0017233	Spb1_C	"GO:methyltransferase activity"	GO:0008168
+PF08241	OG0015187	Methyltransf_11	"GO:methyltransferase activity"	GO:0008168
+PF04446	OG0016187	Thg1	"GO:tRNA guanylyltransferase activity"	GO:0008193
+PF04446	OG0016588	Thg1	"GO:tRNA guanylyltransferase activity"	GO:0008193
+PF00201	OG0016840	UDPGT	"GO:UDP-glycosyltransferase activity"	GO:0008194
+PF00210	OG0017999	Ferritin	"GO:ferric iron binding"	GO:0008199
+PF02950	OG0017377	Conotoxin	"GO:ion channel inhibitor activity"	GO:0008200
+PF00082	OG0017398	Peptidase_S8	"GO:serine-type peptidase activity"	GO:0008236
+PF00326	OG0017368	Peptidase_S9	"GO:serine-type peptidase activity"	GO:0008236
+PF09127	OG0017381	Leuk-A4-hydro_C	"GO:metallopeptidase activity"	GO:0008237
+PF00098	OG0015170	zf-CCHC	"GO:zinc ion binding"	GO:0008270
+PF00098	OG0017511	zf-CCHC	"GO:zinc ion binding"	GO:0008270
+PF00172	OG0015167	Zn_clus	"GO:zinc ion binding"	GO:0008270
+PF00172	OG0015204	Zn_clus	"GO:zinc ion binding"	GO:0008270
+PF00172	OG0015206	Zn_clus	"GO:zinc ion binding"	GO:0008270
+PF00172	OG0016493	Zn_clus	"GO:zinc ion binding"	GO:0008270
+PF00172	OG0016733	Zn_clus	"GO:zinc ion binding"	GO:0008270
+PF00172	OG0017007	Zn_clus	"GO:zinc ion binding"	GO:0008270
+PF00172	OG0017022	Zn_clus	"GO:zinc ion binding"	GO:0008270
+PF01116	OG0016477	F_bP_aldolase	"GO:zinc ion binding"	GO:0008270
+PF01428	OG0015304	zf-AN1	"GO:zinc ion binding"	GO:0008270
+PF02127	OG0017559	Peptidase_M18	"GO:zinc ion binding"	GO:0008270
+PF02148	OG0017260	zf-UBP	"GO:zinc ion binding"	GO:0008270
+PF04082	OG0015168	Fungal_trans	"GO:zinc ion binding"	GO:0008270
+PF04082	OG0015204	Fungal_trans	"GO:zinc ion binding"	GO:0008270
+PF04082	OG0016733	Fungal_trans	"GO:zinc ion binding"	GO:0008270
+PF06524	OG0014866	NOA36	"GO:zinc ion binding"	GO:0008270
+PF09127	OG0017381	Leuk-A4-hydro_C	"GO:zinc ion binding"	GO:0008270
+PF12861	OG0017196	zf-ANAPC11	"GO:zinc ion binding"	GO:0008270
+PF12906	OG0017196	RINGv	"GO:zinc ion binding"	GO:0008270
+PF01442	OG0014921	Apolipoprotein	"GO:lipid binding"	GO:0008289
+PF01442	OG0015232	Apolipoprotein	"GO:lipid binding"	GO:0008289
+PF01442	OG0015412	Apolipoprotein	"GO:lipid binding"	GO:0008289
+PF01442	OG0015623	Apolipoprotein	"GO:lipid binding"	GO:0008289
+PF01442	OG0016594	Apolipoprotein	"GO:lipid binding"	GO:0008289
+PF01442	OG0016632	Apolipoprotein	"GO:lipid binding"	GO:0008289
+PF01442	OG0017361	Apolipoprotein	"GO:lipid binding"	GO:0008289
+PF01442	OG0017912	Apolipoprotein	"GO:lipid binding"	GO:0008289
+PF05778	OG0015733	Apo-CIII	"GO:lipid binding"	GO:0008289
+PF07464	OG0014921	ApoLp-III	"GO:lipid binding"	GO:0008289
+PF07464	OG0017465	ApoLp-III	"GO:lipid binding"	GO:0008289
+PF04769	OG0017089	MATalpha_HMGbox	"GO:DNA binding, bending"	GO:0008301
+PF02450	OG0016974	LCAT	"GO:O-acyltransferase activity"	GO:0008374
+PF00202	OG0016556	Aminotran_3	"GO:transaminase activity"	GO:0008483
+PF04710	OG0016912	Pellino	"GO:regulation of Toll signaling pathway"	GO:0008592
+PF01916	OG0014949	DS	"GO:peptidyl-lysine modification to peptidyl-hypusine"	GO:0008612
+PF14489	OG0015728	QueF	"GO:queuosine biosynthetic process"	GO:0008616
+PF01306	OG0016818	LacY_symp	"GO:carbohydrate transport"	GO:0008643
+PF02774	OG0015237	Semialdhyde_dhC	"GO:cellular amino acid biosynthetic process"	GO:0008652
+PF02666	OG0017966	PS_Dcarbxylase	"GO:phospholipid biosynthetic process"	GO:0008654
+PF00926	OG0016893	DHBP_synthase	"GO:3,4-dihydroxy-2-butanone-4-phosphate synthase activity"	GO:0008686
+PF07478	OG0016905	Dala_Dala_lig_C	"GO:D-alanine-D-alanine ligase activity"	GO:0008716
+PF05401	OG0015187	NodS	"GO:S-adenosylmethionine-dependent methyltransferase activity"	GO:0008757
+PF05724	OG0015446	TPMT	"GO:S-adenosylmethionine-dependent methyltransferase activity"	GO:0008757
+PF02550	OG0015358	AcetylCoA_hydro	"GO:acetate CoA-transferase activity"	GO:0008775
+PF01670	OG0016158	Glyco_hydro_12	"GO:cellulase activity"	GO:0008810
+PF00302	OG0016735	CAT	"GO:chloramphenicol O-acetyltransferase activity"	GO:0008811
+PF02601	OG0014921	Exonuc_VII_L	"GO:exodeoxyribonuclease VII activity"	GO:0008855
+PF02614	OG0017264	UxaC	"GO:glucuronate isomerase activity"	GO:0008880
+PF03612	OG0014859	EIIBC-GUT_N	"GO:protein-N(PI)-phosphohistidine-sugar phosphotransferase activity"	GO:0008982
+PF03612	OG0015535	EIIBC-GUT_N	"GO:protein-N(PI)-phosphohistidine-sugar phosphotransferase activity"	GO:0008982
+PF09573	OG0015087	RE_TaqI	"GO:type II site-specific deoxyribonuclease activity"	GO:0009036
+PF06026	OG0016611	Rib_5-P_isom_A	"GO:pentose-phosphate shunt, non-oxidative branch"	GO:0009052
+PF13631	OG0017591	Cytochrom_B_N_2	"GO:electron transfer activity"	GO:0009055
+PF00155	OG0015193	Aminotran_1_2	"GO:biosynthetic process"	GO:0009058
+PF00975	OG0016569	Thioesterase	"GO:biosynthetic process"	GO:0009058
+PF00975	OG0016712	Thioesterase	"GO:biosynthetic process"	GO:0009058
+PF01225	OG0017618	Mur_ligase	"GO:biosynthetic process"	GO:0009058
+PF03808	OG0016596	Glyco_tran_WecG	"GO:biosynthetic process"	GO:0009058
+PF00115	OG0015346	COX1	"GO:aerobic respiration"	GO:0009060
+PF02844	OG0015545	GARS_N	"GO:purine nucleobase biosynthetic process"	GO:0009113
+PF00926	OG0016893	DHBP_synthase	"GO:riboflavin biosynthetic process"	GO:0009231
+PF06574	OG0014975	FAD_syn	"GO:riboflavin biosynthetic process"	GO:0009231
+PF01183	OG0016622	Glyco_hydro_25	"GO:peptidoglycan catabolic process"	GO:0009253
+PF02554	OG0017004	CstA	"GO:cellular response to starvation"	GO:0009267
+PF02049	OG0015539	FliE	"GO:bacterial-type flagellum"	GO:0009288
+PF02049	OG0017982	FliE	"GO:bacterial-type flagellum"	GO:0009288
+PF02050	OG0015015	FliJ	"GO:bacterial-type flagellum"	GO:0009288
+PF04357	OG0017549	TamB	"GO:protein secretion"	GO:0009306
+PF09573	OG0015087	RE_TaqI	"GO:DNA restriction-modification system"	GO:0009307
+PF02727	OG0015080	Cu_amine_oxidN2	"GO:amine metabolic process"	GO:0009308
+PF02727	OG0015601	Cu_amine_oxidN2	"GO:amine metabolic process"	GO:0009308
+PF05401	OG0015187	NodS	"GO:oligosaccharide biosynthetic process"	GO:0009312
+PF05496	OG0017047	RuvB_N	"GO:four-way junction helicase activity"	GO:0009378
+PF03611	OG0017754	EIIC-GAT	"GO:phosphoenolpyruvate-dependent sugar phosphotransferase system"	GO:0009401
+PF03612	OG0014859	EIIBC-GUT_N	"GO:phosphoenolpyruvate-dependent sugar phosphotransferase system"	GO:0009401
+PF03612	OG0015535	EIIBC-GUT_N	"GO:phosphoenolpyruvate-dependent sugar phosphotransferase system"	GO:0009401
+PF09142	OG0015196	TruB_C	"GO:RNA modification"	GO:0009451
+PF09142	OG0016788	TruB_C	"GO:RNA modification"	GO:0009451
+PF00796	OG0015665	PSI_8	"GO:photosystem I"	GO:0009522
+PF03030	OG0016887	H_PPase	"GO:pyrophosphate hydrolysis-driven proton transmembrane transporter activity"	GO:0009678
+PF03030	OG0016888	H_PPase	"GO:pyrophosphate hydrolysis-driven proton transmembrane transporter activity"	GO:0009678
+PF11991	OG0015188	Trp_DMAT	"GO:alkaloid metabolic process"	GO:0009820
+PF11991	OG0015189	Trp_DMAT	"GO:alkaloid metabolic process"	GO:0009820
+PF01153	OG0018057	Glypican	"GO:regulation of signal transduction"	GO:0009966
+PF04979	OG0016851	IPP-2	"GO:regulation of signal transduction"	GO:0009966
+PF09142	OG0015196	TruB_C	"GO:pseudouridine synthase activity"	GO:0009982
+PF09142	OG0016788	TruB_C	"GO:pseudouridine synthase activity"	GO:0009982
+PF03091	OG0014928	CutA1	"GO:response to metal ion"	GO:0010038
+PF10955	OG0017420	DUF2757	"GO:regulation of gene expression"	GO:0010468
+PF03839	OG0016055	Sec62	"GO:protein transport"	GO:0015031
+PF06375	OG0015933	AP3D1	"GO:protein transport"	GO:0015031
+PF06375	OG0016362	AP3D1	"GO:protein transport"	GO:0015031
+PF00665	OG0015147	rve	"GO:DNA integration"	GO:0015074
+PF00665	OG0015638	rve	"GO:DNA integration"	GO:0015074
+PF00665	OG0015651	rve	"GO:DNA integration"	GO:0015074
+PF00665	OG0015758	rve	"GO:DNA integration"	GO:0015074
+PF00665	OG0015763	rve	"GO:DNA integration"	GO:0015074
+PF00665	OG0017790	rve	"GO:DNA integration"	GO:0015074
+PF13683	OG0015398	rve_3	"GO:DNA integration"	GO:0015074
+PF00119	OG0015396	ATP-synt_A	"GO:proton transmembrane transporter activity"	GO:0015078
+PF04277	OG0016055	OAD_gamma	"GO:sodium ion transmembrane transporter activity"	GO:0015081
+PF16983	OG0015454	MFS_MOT1	"GO:molybdate ion transmembrane transporter activity"	GO:0015098
+PF03605	OG0016055	DcuA_DcuB	"GO:C4-dicarboxylate transmembrane transporter activity"	GO:0015556
+PF12019	OG0015910	GspH	"GO:type II protein secretion system complex"	GO:0015627
+PF12019	OG0015910	GspH	"GO:protein secretion by the type II secretion system"	GO:0015628
+PF04699	OG0016440	P16-Arc	"GO:actin cytoskeleton"	GO:0015629
+PF16983	OG0015454	MFS_MOT1	"GO:molybdate ion transport"	GO:0015689
+PF03605	OG0016055	DcuA_DcuB	"GO:C4-dicarboxylate transport"	GO:0015740
+PF11744	OG0016955	ALMT	"GO:malate transport"	GO:0015743
+PF03825	OG0016818	Nuc_H_symport	"GO:nucleoside transport"	GO:0015858
+PF04995	OG0015929	CcmD	"GO:heme transport"	GO:0015886
+PF01783	OG0016297	Ribosomal_L32p	"GO:large ribosomal subunit"	GO:0015934
+PF00368	OG0015957	HMG-CoA_red	"GO:coenzyme A metabolic process"	GO:0015936
+PF03630	OG0017548	Fumble	"GO:coenzyme A biosynthetic process"	GO:0015937
+PF02548	OG0017745	Pantoate_transf	"GO:pantothenate biosynthetic process"	GO:0015940
+PF00796	OG0015665	PSI_8	"GO:photosynthesis"	GO:0015979
+PF00119	OG0015396	ATP-synt_A	"GO:proton motive force-driven ATP synthesis"	GO:0015986
+PF10775	OG0016548	ATP_sub_h	"GO:proton motive force-driven ATP synthesis"	GO:0015986
+PF00028	OG0018011	Cadherin	"GO:membrane"	GO:0016020
+PF00146	OG0017451	NADHdh	"GO:membrane"	GO:0016020
+PF00324	OG0014943	AA_permease	"GO:membrane"	GO:0016020
+PF00324	OG0016691	AA_permease	"GO:membrane"	GO:0016020
+PF00324	OG0017764	AA_permease	"GO:membrane"	GO:0016020
+PF00854	OG0016749	PTR2	"GO:membrane"	GO:0016020
+PF00860	OG0015454	Xan_ur_permease	"GO:membrane"	GO:0016020
+PF01061	OG0016672	ABC2_membrane	"GO:membrane"	GO:0016020
+PF01061	OG0017033	ABC2_membrane	"GO:membrane"	GO:0016020
+PF01284	OG0016303	MARVEL	"GO:membrane"	GO:0016020
+PF01284	OG0017968	MARVEL	"GO:membrane"	GO:0016020
+PF01306	OG0016818	LacY_symp	"GO:membrane"	GO:0016020
+PF01532	OG0016484	Glyco_hydro_47	"GO:membrane"	GO:0016020
+PF01544	OG0015546	CorA	"GO:membrane"	GO:0016020
+PF01544	OG0017293	CorA	"GO:membrane"	GO:0016020
+PF01956	OG0016055	EMC3_TMCO1	"GO:membrane"	GO:0016020
+PF02133	OG0014968	Transp_cyt_pur	"GO:membrane"	GO:0016020
+PF02133	OG0015652	Transp_cyt_pur	"GO:membrane"	GO:0016020
+PF02133	OG0015732	Transp_cyt_pur	"GO:membrane"	GO:0016020
+PF02133	OG0016980	Transp_cyt_pur	"GO:membrane"	GO:0016020
+PF02535	OG0014873	Zip	"GO:membrane"	GO:0016020
+PF02535	OG0014894	Zip	"GO:membrane"	GO:0016020
+PF02535	OG0014901	Zip	"GO:membrane"	GO:0016020
+PF02535	OG0014906	Zip	"GO:membrane"	GO:0016020
+PF02535	OG0014909	Zip	"GO:membrane"	GO:0016020
+PF02535	OG0014911	Zip	"GO:membrane"	GO:0016020
+PF02535	OG0015089	Zip	"GO:membrane"	GO:0016020
+PF02535	OG0016432	Zip	"GO:membrane"	GO:0016020
+PF02535	OG0016686	Zip	"GO:membrane"	GO:0016020
+PF02554	OG0017004	CstA	"GO:membrane"	GO:0016020
+PF03030	OG0016887	H_PPase	"GO:membrane"	GO:0016020
+PF03030	OG0016888	H_PPase	"GO:membrane"	GO:0016020
+PF03137	OG0016055	OATP	"GO:membrane"	GO:0016020
+PF03137	OG0017582	OATP	"GO:membrane"	GO:0016020
+PF03522	OG0015089	SLC12	"GO:membrane"	GO:0016020
+PF04136	OG0017692	Sec34	"GO:membrane"	GO:0016020
+PF04277	OG0016055	OAD_gamma	"GO:membrane"	GO:0016020
+PF04692	OG0015130	PDGF_N	"GO:membrane"	GO:0016020
+PF05049	OG0018055	IIGP	"GO:membrane"	GO:0016020
+PF05791	OG0015015	Bacillus_HBL	"GO:membrane"	GO:0016020
+PF07517	OG0017761	SecA_DEAD	"GO:membrane"	GO:0016020
+PF09177	OG0017361	Syntaxin-6_N	"GO:membrane"	GO:0016020
+PF12361	OG0017290	DBP	"GO:membrane"	GO:0016020
+PF13520	OG0016691	AA_permease_2	"GO:membrane"	GO:0016020
+PF13520	OG0016955	AA_permease_2	"GO:membrane"	GO:0016020
+PF13520	OG0017342	AA_permease_2	"GO:membrane"	GO:0016020
+PF13520	OG0017764	AA_permease_2	"GO:membrane"	GO:0016020
+PF13631	OG0017591	Cytochrom_B_N_2	"GO:membrane"	GO:0016020
+PF00001	OG0016055	7tm_1	"GO:integral component of membrane"	GO:0016021
+PF00001	OG0018006	7tm_1	"GO:integral component of membrane"	GO:0016021
+PF00001	OG0018054	7tm_1	"GO:integral component of membrane"	GO:0016021
+PF00001	OG0018058	7tm_1	"GO:integral component of membrane"	GO:0016021
+PF00001	OG0018064	7tm_1	"GO:integral component of membrane"	GO:0016021
+PF00001	OG0018072	7tm_1	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0016573	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0016574	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0016703	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0016818	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0016946	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0016961	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0017198	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0017324	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0017582	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00083	OG0018096	Sugar_tr	"GO:integral component of membrane"	GO:0016021
+PF00115	OG0015346	COX1	"GO:integral component of membrane"	GO:0016021
+PF00209	OG0016599	SNF	"GO:integral component of membrane"	GO:0016021
+PF00664	OG0015182	ABC_membrane	"GO:integral component of membrane"	GO:0016021
+PF01080	OG0015089	Presenilin	"GO:integral component of membrane"	GO:0016021
+PF01080	OG0015688	Presenilin	"GO:integral component of membrane"	GO:0016021
+PF01694	OG0017582	Rhomboid	"GO:integral component of membrane"	GO:0016021
+PF01770	OG0016941	Folate_carrier	"GO:integral component of membrane"	GO:0016021
+PF02122	OG0016064	Peptidase_S39	"GO:integral component of membrane"	GO:0016021
+PF02537	OG0017553	CRCB	"GO:integral component of membrane"	GO:0016021
+PF03279	OG0015400	Lip_A_acyltrans	"GO:integral component of membrane"	GO:0016021
+PF03605	OG0016055	DcuA_DcuB	"GO:integral component of membrane"	GO:0016021
+PF03606	OG0016055	DcuC	"GO:integral component of membrane"	GO:0016021
+PF03611	OG0017754	EIIC-GAT	"GO:integral component of membrane"	GO:0016021
+PF03612	OG0014859	EIIBC-GUT_N	"GO:integral component of membrane"	GO:0016021
+PF03612	OG0015535	EIIBC-GUT_N	"GO:integral component of membrane"	GO:0016021
+PF03825	OG0016818	Nuc_H_symport	"GO:integral component of membrane"	GO:0016021
+PF04103	OG0015766	CD20	"GO:integral component of membrane"	GO:0016021
+PF04258	OG0015247	Peptidase_A22B	"GO:integral component of membrane"	GO:0016021
+PF04923	OG0018064	Ninjurin	"GO:integral component of membrane"	GO:0016021
+PF04995	OG0015929	CcmD	"GO:integral component of membrane"	GO:0016021
+PF05478	OG0014921	Prominin	"GO:integral component of membrane"	GO:0016021
+PF05637	OG0015360	Glyco_transf_34	"GO:integral component of membrane"	GO:0016021
+PF05758	OG0016055	Ycf1	"GO:integral component of membrane"	GO:0016021
+PF06160	OG0014971	EzrA	"GO:integral component of membrane"	GO:0016021
+PF06160	OG0015015	EzrA	"GO:integral component of membrane"	GO:0016021
+PF06422	OG0016672	PDR_CDR	"GO:integral component of membrane"	GO:0016021
+PF06423	OG0016055	GWT1	"GO:integral component of membrane"	GO:0016021
+PF06459	OG0015089	RR_TM4-6	"GO:integral component of membrane"	GO:0016021
+PF06963	OG0018064	FPN1	"GO:integral component of membrane"	GO:0016021
+PF07730	OG0015440	HisKA_3	"GO:integral component of membrane"	GO:0016021
+PF07851	OG0014971	TMPIT	"GO:integral component of membrane"	GO:0016021
+PF08491	OG0015205	SE	"GO:integral component of membrane"	GO:0016021
+PF09064	OG0016739	Tme5_EGF_like	"GO:integral component of membrane"	GO:0016021
+PF11770	OG0016632	GAPT	"GO:integral component of membrane"	GO:0016021
+PF13853	OG0018006	7tm_4	"GO:integral component of membrane"	GO:0016021
+PF13853	OG0018054	7tm_4	"GO:integral component of membrane"	GO:0016021
+PF13853	OG0018058	7tm_4	"GO:integral component of membrane"	GO:0016021
+PF13853	OG0018072	7tm_4	"GO:integral component of membrane"	GO:0016021
+PF15096	OG0017108	G6B	"GO:integral component of membrane"	GO:0016021
+PF01006	OG0017582	HCV_NS4a	"GO:viral process"	GO:0016032
+PF02122	OG0016064	Peptidase_S39	"GO:viral process"	GO:0016032
+PF09260	OG0017790	DUF1966	"GO:carbohydrate catabolic process"	GO:0016052
+PF09260	OG0017845	DUF1966	"GO:carbohydrate catabolic process"	GO:0016052
+PF00547	OG0017260	Urease_gamma	"GO:nickel cation binding"	GO:0016151
+PF01155	OG0017169	HypA	"GO:nickel cation binding"	GO:0016151
+PF02333	OG0017767	Phytase	"GO:3-phytase activity"	GO:0016158
+PF01602	OG0016444	Adaptin_N	"GO:vesicle-mediated transport"	GO:0016192
+PF01602	OG0017804	Adaptin_N	"GO:vesicle-mediated transport"	GO:0016192
+PF04871	OG0017692	Uso1_p115_C	"GO:vesicle-mediated transport"	GO:0016192
+PF19031	OG0016963	Intu_longin_1	"GO:vesicle-mediated transport"	GO:0016192
+PF01920	OG0014918	Prefoldin_2	"GO:prefoldin complex"	GO:0016272
+PF01920	OG0017361	Prefoldin_2	"GO:prefoldin complex"	GO:0016272
+PF01920	OG0017465	Prefoldin_2	"GO:prefoldin complex"	GO:0016272
+PF00485	OG0015182	PRK	"GO:kinase activity"	GO:0016301
+PF00485	OG0016849	PRK	"GO:kinase activity"	GO:0016301
+PF06414	OG0015182	Zeta_toxin	"GO:kinase activity"	GO:0016301
+PF06414	OG0015209	Zeta_toxin	"GO:kinase activity"	GO:0016301
+PF06414	OG0015274	Zeta_toxin	"GO:kinase activity"	GO:0016301
+PF06414	OG0016700	Zeta_toxin	"GO:kinase activity"	GO:0016301
+PF06414	OG0017047	Zeta_toxin	"GO:kinase activity"	GO:0016301
+PF00782	OG0017646	DSPc	"GO:dephosphorylation"	GO:0016311
+PF01529	OG0016325	DHHC	"GO:palmitoyltransferase activity"	GO:0016409
+PF00063	OG0016770	Myosin_head	"GO:myosin complex"	GO:0016459
+PF03179	OG0016594	V-ATPase_G	"GO:vacuolar proton-transporting V-type ATPase complex"	GO:0016471
+PF01080	OG0015089	Presenilin	"GO:protein processing"	GO:0016485
+PF01080	OG0015688	Presenilin	"GO:protein processing"	GO:0016485
+PF00171	OG0016974	Aldedh	"GO:oxidoreductase activity"	GO:0016491
+PF00171	OG0017440	Aldedh	"GO:oxidoreductase activity"	GO:0016491
+PF00171	OG0017725	Aldedh	"GO:oxidoreductase activity"	GO:0016491
+PF00175	OG0018082	NAD_binding_1	"GO:oxidoreductase activity"	GO:0016491
+PF00208	OG0016882	ELFV_dehydrog	"GO:oxidoreductase activity"	GO:0016491
+PF00264	OG0015714	Tyrosinase	"GO:oxidoreductase activity"	GO:0016491
+PF00465	OG0015194	Fe-ADH	"GO:oxidoreductase activity"	GO:0016491
+PF01070	OG0017476	FMN_dh	"GO:oxidoreductase activity"	GO:0016491
+PF01266	OG0015152	DAO	"GO:oxidoreductase activity"	GO:0016491
+PF01266	OG0016500	DAO	"GO:oxidoreductase activity"	GO:0016491
+PF01266	OG0017000	DAO	"GO:oxidoreductase activity"	GO:0016491
+PF01565	OG0017510	FAD_binding_4	"GO:oxidoreductase activity"	GO:0016491
+PF01565	OG0017523	FAD_binding_4	"GO:oxidoreductase activity"	GO:0016491
+PF01593	OG0015205	Amino_oxidase	"GO:oxidoreductase activity"	GO:0016491
+PF02615	OG0017803	Ldh_2	"GO:oxidoreductase activity"	GO:0016491
+PF02812	OG0016708	ELFV_dehydrog_N	"GO:oxidoreductase activity"	GO:0016491
+PF02812	OG0017996	ELFV_dehydrog_N	"GO:oxidoreductase activity"	GO:0016491
+PF02915	OG0017462	Rubrerythrin	"GO:oxidoreductase activity"	GO:0016491
+PF07731	OG0017707	Cu-oxidase_2	"GO:oxidoreductase activity"	GO:0016491
+PF07992	OG0015152	Pyr_redox_2	"GO:oxidoreductase activity"	GO:0016491
+PF07992	OG0016500	Pyr_redox_2	"GO:oxidoreductase activity"	GO:0016491
+PF07992	OG0016581	Pyr_redox_2	"GO:oxidoreductase activity"	GO:0016491
+PF07992	OG0017000	Pyr_redox_2	"GO:oxidoreductase activity"	GO:0016491
+PF08022	OG0018082	FAD_binding_8	"GO:oxidoreductase activity"	GO:0016491
+PF08030	OG0016111	NAD_binding_6	"GO:oxidoreductase activity"	GO:0016491
+PF08030	OG0018082	NAD_binding_6	"GO:oxidoreductase activity"	GO:0016491
+PF08031	OG0015490	BBE	"GO:oxidoreductase activity"	GO:0016491
+PF08534	OG0015910	Redoxin	"GO:oxidoreductase activity"	GO:0016491
+PF12242	OG0016509	Eno-Rase_NADH_b	"GO:oxidoreductase activity"	GO:0016491
+PF12242	OG0017159	Eno-Rase_NADH_b	"GO:oxidoreductase activity"	GO:0016491
+PF13631	OG0017591	Cytochrom_B_N_2	"GO:oxidoreductase activity"	GO:0016491
+PF03985	OG0017363	Paf1	"GO:histone modification"	GO:0016570
+PF06333	OG0017828	Med13_C	"GO:mediator complex"	GO:0016592
+PF07544	OG0015196	Med9	"GO:mediator complex"	GO:0016592
+PF09637	OG0017408	Med18	"GO:mediator complex"	GO:0016592
+PF03985	OG0017363	Paf1	"GO:Cdc73/Paf1 complex"	GO:0016593
+PF00732	OG0015152	GMC_oxred_N	"GO:oxidoreductase activity, acting on CH-OH group of donors"	GO:0016614
+PF05199	OG0015152	GMC_oxred_C	"GO:oxidoreductase activity, acting on CH-OH group of donors"	GO:0016614
+PF01073	OG0015067	3Beta_HSD	"GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	GO:0016616
+PF01073	OG0015192	3Beta_HSD	"GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	GO:0016616
+PF01073	OG0015216	3Beta_HSD	"GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	GO:0016616
+PF03720	OG0017915	UDPG_MGDP_dh_C	"GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	GO:0016616
+PF03721	OG0017000	UDPG_MGDP_dh_N	"GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	GO:0016616
+PF02774	OG0015237	Semialdhyde_dhC	"GO:oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	GO:0016620
+PF00067	OG0015086	p450	"GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:0016705
+PF00067	OG0015217	p450	"GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:0016705
+PF00067	OG0016726	p450	"GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:0016705
+PF00067	OG0016835	p450	"GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:0016705
+PF00067	OG0016836	p450	"GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:0016705
+PF00067	OG0016948	p450	"GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:0016705
+PF00067	OG0016990	p450	"GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:0016705
+PF00067	OG0018069	p450	"GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:0016705
+PF00296	OG0016480	Bac_luciferase	"GO:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:0016705
+PF03279	OG0015400	Lip_A_acyltrans	"GO:transferase activity"	GO:0016740
+PF03808	OG0016596	Glyco_tran_WecG	"GO:transferase activity"	GO:0016740
+PF02729	OG0016876	OTCace_N	"GO:carboxyl- or carbamoyltransferase activity"	GO:0016743
+PF02817	OG0016881	E3_binding	"GO:acyltransferase activity"	GO:0016746
+PF06423	OG0016055	GWT1	"GO:acyltransferase activity"	GO:0016746
+PF00108	OG0015181	Thiolase_N	"GO:acyltransferase activity, transferring groups other than amino-acyl groups"	GO:0016747
+PF00108	OG0015187	Thiolase_N	"GO:acyltransferase activity, transferring groups other than amino-acyl groups"	GO:0016747
+PF02504	OG0016894	FA_synthesis	"GO:acyltransferase activity, transferring groups other than amino-acyl groups"	GO:0016747
+PF02504	OG0016895	FA_synthesis	"GO:acyltransferase activity, transferring groups other than amino-acyl groups"	GO:0016747
+PF05637	OG0015360	Glyco_transf_34	"GO:glycosyltransferase activity"	GO:0016757
+PF04101	OG0016840	Glyco_tran_28_C	"GO:hexosyltransferase activity"	GO:0016758
+PF11991	OG0015188	Trp_DMAT	"GO:transferase activity, transferring alkyl or aryl (other than methyl) groups"	GO:0016765
+PF11991	OG0015189	Trp_DMAT	"GO:transferase activity, transferring alkyl or aryl (other than methyl) groups"	GO:0016765
+PF00349	OG0016829	Hexokinase_1	"GO:phosphotransferase activity, alcohol group as acceptor"	GO:0016773
+PF01112	OG0016682	Asparaginase_2	"GO:hydrolase activity"	GO:0016787
+PF01738	OG0015037	DLH	"GO:hydrolase activity"	GO:0016787
+PF01975	OG0015196	SurE	"GO:hydrolase activity"	GO:0016787
+PF01975	OG0016788	SurE	"GO:hydrolase activity"	GO:0016787
+PF04851	OG0015149	ResIII	"GO:hydrolase activity"	GO:0016787
+PF04851	OG0017761	ResIII	"GO:hydrolase activity"	GO:0016787
+PF04909	OG0016519	Amidohydro_2	"GO:hydrolase activity"	GO:0016787
+PF06821	OG0014981	Ser_hydrolase	"GO:hydrolase activity"	GO:0016787
+PF07486	OG0017882	Hydrolase_2	"GO:hydrolase activity"	GO:0016787
+PF07859	OG0015187	Abhydrolase_3	"GO:hydrolase activity"	GO:0016787
+PF07859	OG0016569	Abhydrolase_3	"GO:hydrolase activity"	GO:0016787
+PF07859	OG0017672	Abhydrolase_3	"GO:hydrolase activity"	GO:0016787
+PF12695	OG0016569	Abhydrolase_5	"GO:hydrolase activity"	GO:0016787
+PF07819	OG0016712	PGAP1	"GO:hydrolase activity, acting on ester bonds"	GO:0016788
+PF00245	OG0015747	Alk_phosphatase	"GO:phosphatase activity"	GO:0016791
+PF16317	OG0015573	Glyco_hydro_99	"GO:hydrolase activity, acting on glycosyl bonds"	GO:0016798
+PF16317	OG0015623	Glyco_hydro_99	"GO:hydrolase activity, acting on glycosyl bonds"	GO:0016798
+PF16317	OG0016398	Glyco_hydro_99	"GO:hydrolase activity, acting on glycosyl bonds"	GO:0016798
+PF16317	OG0016757	Glyco_hydro_99	"GO:hydrolase activity, acting on glycosyl bonds"	GO:0016798
+PF03069	OG0015616	FmdA_AmdA	"GO:hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"	GO:0016811
+PF02278	OG0017156	Lyase_8	"GO:lyase activity"	GO:0016829
+PF01116	OG0016477	F_bP_aldolase	"GO:aldehyde-lyase activity"	GO:0016832
+PF00004	OG0015182	AAA	"GO:ATP hydrolysis activity"	GO:0016887
+PF00004	OG0015196	AAA	"GO:ATP hydrolysis activity"	GO:0016887
+PF00004	OG0015209	AAA	"GO:ATP hydrolysis activity"	GO:0016887
+PF00004	OG0016589	AAA	"GO:ATP hydrolysis activity"	GO:0016887
+PF00004	OG0016849	AAA	"GO:ATP hydrolysis activity"	GO:0016887
+PF00004	OG0017047	AAA	"GO:ATP hydrolysis activity"	GO:0016887
+PF00004	OG0017814	AAA	"GO:ATP hydrolysis activity"	GO:0016887
+PF03969	OG0016567	AFG1_ATPase	"GO:ATP hydrolysis activity"	GO:0016887
+PF07724	OG0016589	AAA_2	"GO:ATP hydrolysis activity"	GO:0016887
+PF07728	OG0015182	AAA_5	"GO:ATP hydrolysis activity"	GO:0016887
+PF07728	OG0016589	AAA_5	"GO:ATP hydrolysis activity"	GO:0016887
+PF13304	OG0015182	AAA_21	"GO:ATP hydrolysis activity"	GO:0016887
+PF13304	OG0015210	AAA_21	"GO:ATP hydrolysis activity"	GO:0016887
+PF08283	OG0017923	Gemini_AL1_M	"GO:endodeoxyribonuclease activity, producing 5'-phosphomonoesters"	GO:0016888
+PF00182	OG0015195	Glyco_hydro_19	"GO:cell wall macromolecule catabolic process"	GO:0016998
+PF01183	OG0016622	Glyco_hydro_25	"GO:cell wall macromolecule catabolic process"	GO:0016998
+PF04995	OG0015929	CcmD	"GO:cytochrome complex assembly"	GO:0017004
+PF07517	OG0017761	SecA_DEAD	"GO:protein import"	GO:0017038
+PF04096	OG0017496	Nucleoporin2	"GO:structural constituent of nuclear pore"	GO:0017056
+PF03266	OG0017047	NTPase_1	"GO:nucleoside-triphosphatase activity"	GO:0017111
+PF10392	OG0017692	COG5	"GO:Golgi transport complex"	GO:0017119
+PF04112	OG0016540	Mak10	"GO:N-terminal peptidyl-methionine acetylation"	GO:0017196
+PF10440	OG0017869	WIYLD	"GO:histone-lysine N-methyltransferase activity"	GO:0018024
+PF00503	OG0015182	G-alpha	"GO:guanyl nucleotide binding"	GO:0019001
+PF00503	OG0015210	G-alpha	"GO:guanyl nucleotide binding"	GO:0019001
+PF00503	OG0016692	G-alpha	"GO:guanyl nucleotide binding"	GO:0019001
+PF03246	OG0016499	Pneumo_ncap	"GO:viral nucleocapsid"	GO:0019013
+PF03246	OG0017849	Pneumo_ncap	"GO:viral nucleocapsid"	GO:0019013
+PF03246	OG0018092	Pneumo_ncap	"GO:viral nucleocapsid"	GO:0019013
+PF04513	OG0014918	Baculo_PEP_C	"GO:viral capsid"	GO:0019028
+PF04513	OG0014921	Baculo_PEP_C	"GO:viral capsid"	GO:0019028
+PF05073	OG0014971	Baculo_p24	"GO:viral capsid"	GO:0019028
+PF05073	OG0015130	Baculo_p24	"GO:viral capsid"	GO:0019028
+PF03286	OG0016362	Pox_Ag35	"GO:viral envelope"	GO:0019031
+PF04513	OG0014918	Baculo_PEP_C	"GO:viral envelope"	GO:0019031
+PF04513	OG0014921	Baculo_PEP_C	"GO:viral envelope"	GO:0019031
+PF02093	OG0018004	Gag_p30	"GO:virion assembly"	GO:0019068
+PF05396	OG0015400	Phage_T7_Capsid	"GO:viral capsid assembly"	GO:0019069
+PF05396	OG0016775	Phage_T7_Capsid	"GO:viral capsid assembly"	GO:0019069
+PF01057	OG0015196	Parvo_NS1	"GO:viral genome replication"	GO:0019079
+PF00962	OG0016523	A_deaminase	"GO:deaminase activity"	GO:0019239
+PF05088	OG0016882	Bac_GDH	"GO:glutamate catabolic process to 2-oxoglutarate"	GO:0019551
+PF02550	OG0015358	AcetylCoA_hydro	"GO:propionate metabolic process, methylcitrate cycle"	GO:0019679
+PF04847	OG0018139	Calcipressin	"GO:calcium-mediated signaling"	GO:0019722
+PF10584	OG0015196	Proteasome_A_N	"GO:proteasome core complex, alpha-subunit complex"	GO:0019773
+PF10584	OG0015720	Proteasome_A_N	"GO:proteasome core complex, alpha-subunit complex"	GO:0019773
+PF10584	OG0016788	Proteasome_A_N	"GO:proteasome core complex, alpha-subunit complex"	GO:0019773
+PF04971	OG0015266	Phage_holin_2_1	"GO:cytolysis"	GO:0019835
+PF04355	OG0016024	SmpA_OmlA	"GO:outer membrane"	GO:0019867
+PF04355	OG0016889	SmpA_OmlA	"GO:outer membrane"	GO:0019867
+PF04728	OG0014918	LPP	"GO:outer membrane"	GO:0019867
+PF01214	OG0016846	CK_II_beta	"GO:protein kinase regulator activity"	GO:0019887
+PF00067	OG0015086	p450	"GO:heme binding"	GO:0020037
+PF00067	OG0015217	p450	"GO:heme binding"	GO:0020037
+PF00067	OG0016726	p450	"GO:heme binding"	GO:0020037
+PF00067	OG0016835	p450	"GO:heme binding"	GO:0020037
+PF00067	OG0016836	p450	"GO:heme binding"	GO:0020037
+PF00067	OG0016948	p450	"GO:heme binding"	GO:0020037
+PF00067	OG0016990	p450	"GO:heme binding"	GO:0020037
+PF00067	OG0018069	p450	"GO:heme binding"	GO:0020037
+PF00115	OG0015346	COX1	"GO:heme binding"	GO:0020037
+PF00083	OG0016573	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00083	OG0016574	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00083	OG0016703	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00083	OG0016818	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00083	OG0016946	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00083	OG0016961	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00083	OG0017198	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00083	OG0017324	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00083	OG0017582	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00083	OG0018096	Sugar_tr	"GO:transmembrane transporter activity"	GO:0022857
+PF00854	OG0016749	PTR2	"GO:transmembrane transporter activity"	GO:0022857
+PF00860	OG0015454	Xan_ur_permease	"GO:transmembrane transporter activity"	GO:0022857
+PF02133	OG0014968	Transp_cyt_pur	"GO:transmembrane transporter activity"	GO:0022857
+PF02133	OG0015652	Transp_cyt_pur	"GO:transmembrane transporter activity"	GO:0022857
+PF02133	OG0015732	Transp_cyt_pur	"GO:transmembrane transporter activity"	GO:0022857
+PF02133	OG0016980	Transp_cyt_pur	"GO:transmembrane transporter activity"	GO:0022857
+PF03522	OG0015089	SLC12	"GO:transmembrane transporter activity"	GO:0022857
+PF06609	OG0016554	TRI12	"GO:transmembrane transporter activity"	GO:0022857
+PF06609	OG0016573	TRI12	"GO:transmembrane transporter activity"	GO:0022857
+PF06609	OG0017101	TRI12	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0016554	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0016573	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0016574	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0016748	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0016818	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0016946	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0017101	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0017198	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0017324	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0017423	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0017582	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF07690	OG0018096	MFS_1	"GO:transmembrane transporter activity"	GO:0022857
+PF13520	OG0016691	AA_permease_2	"GO:transmembrane transporter activity"	GO:0022857
+PF13520	OG0016955	AA_permease_2	"GO:transmembrane transporter activity"	GO:0022857
+PF13520	OG0017342	AA_permease_2	"GO:transmembrane transporter activity"	GO:0022857
+PF13520	OG0017764	AA_permease_2	"GO:transmembrane transporter activity"	GO:0022857
+PF01544	OG0015546	CorA	"GO:metal ion transport"	GO:0030001
+PF01544	OG0017293	CorA	"GO:metal ion transport"	GO:0030001
+PF02535	OG0014873	Zip	"GO:metal ion transport"	GO:0030001
+PF02535	OG0014894	Zip	"GO:metal ion transport"	GO:0030001
+PF02535	OG0014901	Zip	"GO:metal ion transport"	GO:0030001
+PF02535	OG0014906	Zip	"GO:metal ion transport"	GO:0030001
+PF02535	OG0014909	Zip	"GO:metal ion transport"	GO:0030001
+PF02535	OG0014911	Zip	"GO:metal ion transport"	GO:0030001
+PF02535	OG0015089	Zip	"GO:metal ion transport"	GO:0030001
+PF02535	OG0016432	Zip	"GO:metal ion transport"	GO:0030001
+PF02535	OG0016686	Zip	"GO:metal ion transport"	GO:0030001
+PF01988	OG0017198	VIT1	"GO:cellular manganese ion homeostasis"	GO:0030026
+PF01602	OG0016444	Adaptin_N	"GO:membrane coat"	GO:0030117
+PF01602	OG0017804	Adaptin_N	"GO:membrane coat"	GO:0030117
+PF06375	OG0015933	AP3D1	"GO:AP-3 adaptor complex"	GO:0030123
+PF06375	OG0016362	AP3D1	"GO:AP-3 adaptor complex"	GO:0030123
+PF14942	OG0017520	Muted	"GO:transport vesicle"	GO:0030133
+PF08702	OG0014921	Fib_alpha	"GO:platelet activation"	GO:0030168
+PF08702	OG0017747	Fib_alpha	"GO:platelet activation"	GO:0030168
+PF00155	OG0015193	Aminotran_1_2	"GO:pyridoxal phosphate binding"	GO:0030170
+PF00202	OG0016556	Aminotran_3	"GO:pyridoxal phosphate binding"	GO:0030170
+PF03839	OG0016055	Sec62	"GO:integral component of endoplasmic reticulum membrane"	GO:0030176
+PF06682	OG0014950	SARAF	"GO:integral component of endoplasmic reticulum membrane"	GO:0030176
+PF06682	OG0016055	SARAF	"GO:integral component of endoplasmic reticulum membrane"	GO:0030176
+PF06682	OG0016767	SARAF	"GO:integral component of endoplasmic reticulum membrane"	GO:0030176
+PF00734	OG0017202	CBM_1	"GO:cellulose binding"	GO:0030248
+PF00734	OG0017239	CBM_1	"GO:cellulose binding"	GO:0030248
+PF07382	OG0017069	HC2	"GO:chromosome condensation"	GO:0030261
+PF01221	OG0016852	Dynein_light	"GO:dynein complex"	GO:0030286
+PF03059	OG0017302	NAS	"GO:nicotianamine synthase activity"	GO:0030410
+PF03059	OG0017302	NAS	"GO:nicotianamine biosynthetic process"	GO:0030418
+PF07382	OG0017069	HC2	"GO:structural constituent of chromatin"	GO:0030527
+PF04699	OG0016440	P16-Arc	"GO:regulation of actin filament polymerization"	GO:0030833
+PF05188	OG0015489	MutS_II	"GO:mismatched DNA binding"	GO:0030983
+PF14612	OG0015339	Ino80_Iec3	"GO:Ino80 complex"	GO:0031011
+PF14942	OG0017520	Muted	"GO:BLOC-1 complex"	GO:0031083
+PF12861	OG0017196	zf-ANAPC11	"GO:anaphase-promoting complex-dependent catabolic process"	GO:0031145
+PF03810	OG0017226	IBN_N	"GO:small GTPase binding"	GO:0031267
+PF05470	OG0016812	eIF-3c_N	"GO:translation initiation factor binding"	GO:0031369
+PF05470	OG0017312	eIF-3c_N	"GO:translation initiation factor binding"	GO:0031369
+PF05465	OG0016162	Halo_GVPC	"GO:gas vesicle"	GO:0031411
+PF05465	OG0016530	Halo_GVPC	"GO:gas vesicle"	GO:0031411
+PF05465	OG0016162	Halo_GVPC	"GO:gas vesicle organization"	GO:0031412
+PF05465	OG0016530	Halo_GVPC	"GO:gas vesicle organization"	GO:0031412
+PF04112	OG0016540	Mak10	"GO:NatC complex"	GO:0031417
+PF00936	OG0015213	BMC	"GO:bacterial microcompartment"	GO:0031469
+PF01101	OG0018060	HMG14_17	"GO:nucleosomal DNA binding"	GO:0031492
+PF13851	OG0014918	GAS	"GO:motile cilium"	GO:0031514
+PF13851	OG0015489	GAS	"GO:motile cilium"	GO:0031514
+PF13851	OG0016861	GAS	"GO:motile cilium"	GO:0031514
+PF00888	OG0015258	Cullin	"GO:ubiquitin protein ligase binding"	GO:0031625
+PF00503	OG0015182	G-alpha	"GO:G-protein beta/gamma-subunit complex binding"	GO:0031683
+PF00503	OG0015210	G-alpha	"GO:G-protein beta/gamma-subunit complex binding"	GO:0031683
+PF00503	OG0016692	G-alpha	"GO:G-protein beta/gamma-subunit complex binding"	GO:0031683
+PF04147	OG0015395	Nop14	"GO:small-subunit processome"	GO:0032040
+PF04147	OG0017529	Nop14	"GO:small-subunit processome"	GO:0032040
+PF12814	OG0017427	Mcp5_PH	"GO:maintenance of protein location in cell cortex"	GO:0032065
+PF03454	OG0016788	MoeA_C	"GO:molybdopterin cofactor biosynthetic process"	GO:0032324
+PF04762	OG0015196	IKI3	"GO:elongator holoenzyme complex"	GO:0033588
+PF04762	OG0016788	IKI3	"GO:elongator holoenzyme complex"	GO:0033588
+PF05625	OG0016904	PAXNEB	"GO:elongator holoenzyme complex"	GO:0033588
+PF09803	OG0017764	Pet100	"GO:mitochondrial cytochrome c oxidase assembly"	GO:0033617
+PF14489	OG0015728	QueF	"GO:preQ1 synthase activity"	GO:0033739
+PF17649	OG0017357	VPS38	"GO:phosphatidylinositol 3-kinase complex, class III, type II"	GO:0034272
+PF04699	OG0016440	P16-Arc	"GO:Arp2/3 complex-mediated actin nucleation"	GO:0034314
+PF09788	OG0017169	Tmemb_55A	"GO:phosphatidylinositol-4,5-bisphosphate 4-phosphatase activity"	GO:0034597
+PF06963	OG0018064	FPN1	"GO:iron ion transmembrane transport"	GO:0034755
+PF05251	OG0016471	Ost5	"GO:oligosaccharyltransferase I complex"	GO:0034998
+PF00787	OG0017059	PX	"GO:phosphatidylinositol binding"	GO:0035091
+PF00787	OG0017232	PX	"GO:phosphatidylinositol binding"	GO:0035091
+PF00787	OG0017439	PX	"GO:phosphatidylinositol binding"	GO:0035091
+PF03169	OG0015266	OPT	"GO:oligopeptide transmembrane transporter activity"	GO:0035673
+PF04277	OG0016055	OAD_gamma	"GO:sodium ion export across plasma membrane"	GO:0036376
+PF05531	OG0017747	NPV_P10	"GO:viral occlusion body"	GO:0039679
+PF03431	OG0015599	RNA_replicase_B	"GO:viral RNA genome replication"	GO:0039694
+PF00424	OG0015606	REV	"GO:host cell nucleus"	GO:0042025
+PF01442	OG0014921	Apolipoprotein	"GO:lipoprotein metabolic process"	GO:0042157
+PF01442	OG0015232	Apolipoprotein	"GO:lipoprotein metabolic process"	GO:0042157
+PF01442	OG0015412	Apolipoprotein	"GO:lipoprotein metabolic process"	GO:0042157
+PF01442	OG0015623	Apolipoprotein	"GO:lipoprotein metabolic process"	GO:0042157
+PF01442	OG0016594	Apolipoprotein	"GO:lipoprotein metabolic process"	GO:0042157
+PF01442	OG0016632	Apolipoprotein	"GO:lipoprotein metabolic process"	GO:0042157
+PF01442	OG0017361	Apolipoprotein	"GO:lipoprotein metabolic process"	GO:0042157
+PF01442	OG0017912	Apolipoprotein	"GO:lipoprotein metabolic process"	GO:0042157
+PF05778	OG0015733	Apo-CIII	"GO:lipoprotein metabolic process"	GO:0042157
+PF04923	OG0018064	Ninjurin	"GO:tissue regeneration"	GO:0042246
+PF15679	OG0014971	DUF4665	"GO:ribosome biogenesis"	GO:0042254
+PF07352	OG0014921	Phage_Mu_Gam	"GO:DNA protection"	GO:0042262
+PF12619	OG0016616	MCM2_N	"GO:MCM complex"	GO:0042555
+PF04625	OG0016058	DEC-1_N	"GO:egg chorion"	GO:0042600
+PF04625	OG0016466	DEC-1_N	"GO:egg chorion"	GO:0042600
+PF06422	OG0016672	PDR_CDR	"GO:ATPase-coupled transmembrane transporter activity"	GO:0042626
+PF08651	OG0015015	DASH_Duo1	"GO:DASH complex"	GO:0042729
+PF07721	OG0014928	TPR_4	"GO:identical protein binding"	GO:0042802
+PF07721	OG0014984	TPR_4	"GO:identical protein binding"	GO:0042802
+PF07721	OG0015087	TPR_4	"GO:identical protein binding"	GO:0042802
+PF07721	OG0015400	TPR_4	"GO:identical protein binding"	GO:0042802
+PF07721	OG0016775	TPR_4	"GO:identical protein binding"	GO:0042802
+PF07721	OG0016785	TPR_4	"GO:identical protein binding"	GO:0042802
+PF07721	OG0017551	TPR_4	"GO:identical protein binding"	GO:0042802
+PF07721	OG0017982	TPR_4	"GO:identical protein binding"	GO:0042802
+PF07721	OG0018044	TPR_4	"GO:identical protein binding"	GO:0042802
+PF10473	OG0014918	CENP-F_leu_zip	"GO:protein homodimerization activity"	GO:0042803
+PF10473	OG0016861	CENP-F_leu_zip	"GO:protein homodimerization activity"	GO:0042803
+PF10473	OG0017042	CENP-F_leu_zip	"GO:protein homodimerization activity"	GO:0042803
+PF10473	OG0017361	CENP-F_leu_zip	"GO:protein homodimerization activity"	GO:0042803
+PF01335	OG0015400	DED	"GO:regulation of apoptotic process"	GO:0042981
+PF15806	OG0016749	DUF4707	"GO:alpha-tubulin binding"	GO:0043014
+PF01287	OG0015572	eIF-5a	"GO:ribosome binding"	GO:0043022
+PF06005	OG0016861	ZapB	"GO:FtsZ-dependent cytokinesis"	GO:0043093
+PF06005	OG0017042	ZapB	"GO:FtsZ-dependent cytokinesis"	GO:0043093
+PF11807	OG0015155	UstYa	"GO:mycotoxin biosynthetic process"	GO:0043386
+PF11807	OG0015157	UstYa	"GO:mycotoxin biosynthetic process"	GO:0043386
+PF11807	OG0015160	UstYa	"GO:mycotoxin biosynthetic process"	GO:0043386
+PF11807	OG0016408	UstYa	"GO:mycotoxin biosynthetic process"	GO:0043386
+PF00547	OG0017260	Urease_gamma	"GO:urea catabolic process"	GO:0043419
+PF00931	OG0015001	NB-ARC	"GO:ADP binding"	GO:0043531
+PF00931	OG0015087	NB-ARC	"GO:ADP binding"	GO:0043531
+PF00931	OG0015182	NB-ARC	"GO:ADP binding"	GO:0043531
+PF00931	OG0015196	NB-ARC	"GO:ADP binding"	GO:0043531
+PF00931	OG0016849	NB-ARC	"GO:ADP binding"	GO:0043531
+PF00931	OG0017047	NB-ARC	"GO:ADP binding"	GO:0043531
+PF00931	OG0018049	NB-ARC	"GO:ADP binding"	GO:0043531
+PF02183	OG0016861	HALZ	"GO:sequence-specific DNA binding"	GO:0043565
+PF02198	OG0017899	SAM_PNT	"GO:sequence-specific DNA binding"	GO:0043565
+PF13404	OG0017309	HTH_AsnC-type	"GO:sequence-specific DNA binding"	GO:0043565
+PF13404	OG0017410	HTH_AsnC-type	"GO:sequence-specific DNA binding"	GO:0043565
+PF09507	OG0017069	CDC27	"GO:delta DNA polymerase complex"	GO:0043625
+PF04176	OG0015685	TIP41	"GO:regulation of phosphoprotein phosphatase activity"	GO:0043666
+PF04979	OG0016851	IPP-2	"GO:regulation of phosphoprotein phosphatase activity"	GO:0043666
+PF01933	OG0018100	CofD	"GO:LPPG:FO 2-phospho-L-lactate transferase activity"	GO:0043743
+PF01006	OG0017582	HCV_NS4a	"GO:virion component"	GO:0044423
+PF17232	OG0014866	Pep1_7	"GO:innate immune response"	GO:0045087
+PF00119	OG0015396	ATP-synt_A	"GO:proton-transporting ATP synthase complex, coupling factor F(o)"	GO:0045263
+PF09228	OG0015204	Prok-TraM	"GO:negative regulation of transcription, DNA-templated"	GO:0045892
+PF04769	OG0017089	MATalpha_HMGbox	"GO:positive regulation of mating-type specific transcription, DNA-templated"	GO:0045895
+PF01287	OG0015572	eIF-5a	"GO:positive regulation of translational elongation"	GO:0045901
+PF01287	OG0015572	eIF-5a	"GO:positive regulation of translational termination"	GO:0045905
+PF19252	OG0014948	HIND	"GO:U4/U6 x U5 tri-snRNP complex"	GO:0046540
+PF19252	OG0015071	HIND	"GO:U4/U6 x U5 tri-snRNP complex"	GO:0046540
+PF01153	OG0018057	Glypican	"GO:anchored component of plasma membrane"	GO:0046658
+PF09788	OG0017169	Tmemb_55A	"GO:phosphatidylinositol dephosphorylation"	GO:0046856
+PF00080	OG0016860	Sod_Cu	"GO:metal ion binding"	GO:0046872
+PF00465	OG0015194	Fe-ADH	"GO:metal ion binding"	GO:0046872
+PF02069	OG0016590	Metallothio_Pro	"GO:metal ion binding"	GO:0046872
+PF02655	OG0016905	ATP-grasp_3	"GO:metal ion binding"	GO:0046872
+PF02915	OG0017462	Rubrerythrin	"GO:metal ion binding"	GO:0046872
+PF01544	OG0015546	CorA	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF01544	OG0017293	CorA	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF02535	OG0014873	Zip	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF02535	OG0014894	Zip	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF02535	OG0014901	Zip	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF02535	OG0014906	Zip	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF02535	OG0014909	Zip	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF02535	OG0014911	Zip	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF02535	OG0015089	Zip	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF02535	OG0016432	Zip	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF02535	OG0016686	Zip	"GO:metal ion transmembrane transporter activity"	GO:0046873
+PF04023	OG0017696	FeoA	"GO:transition metal ion binding"	GO:0046914
+PF03179	OG0016594	V-ATPase_G	"GO:proton-transporting ATPase activity, rotational mechanism"	GO:0046961
+PF02774	OG0015237	Semialdhyde_dhC	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0014902	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0014903	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0014904	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015118	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015135	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015138	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015142	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015183	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015613	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015724	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015739	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015743	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015753	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015755	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015756	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015759	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015762	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015769	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015780	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0015785	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0016451	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0016959	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0016966	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0016987	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0017020	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0017905	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0018097	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0018101	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0018105	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0018108	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0018124	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0018136	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF05699	OG0018137	Dimer_Tnp_hAT	"GO:protein dimerization activity"	GO:0046983
+PF07730	OG0015440	HisKA_3	"GO:protein dimerization activity"	GO:0046983
+PF02727	OG0015080	Cu_amine_oxidN2	"GO:quinone binding"	GO:0048038
+PF02727	OG0015601	Cu_amine_oxidN2	"GO:quinone binding"	GO:0048038
+PF09177	OG0017361	Syntaxin-6_N	"GO:Golgi vesicle transport"	GO:0048193
+PF13851	OG0014918	GAS	"GO:cell motility"	GO:0048870
+PF13851	OG0015489	GAS	"GO:cell motility"	GO:0048870
+PF13851	OG0016861	GAS	"GO:cell motility"	GO:0048870
+PF00732	OG0015152	GMC_oxred_N	"GO:flavin adenine dinucleotide binding"	GO:0050660
+PF01565	OG0017510	FAD_binding_4	"GO:flavin adenine dinucleotide binding"	GO:0050660
+PF01565	OG0017523	FAD_binding_4	"GO:flavin adenine dinucleotide binding"	GO:0050660
+PF08031	OG0015490	BBE	"GO:flavin adenine dinucleotide binding"	GO:0050660
+PF08491	OG0015205	SE	"GO:flavin adenine dinucleotide binding"	GO:0050660
+PF08133	OG0015980	Nuclease_act	"GO:regulation of viral process"	GO:0050792
+PF14862	OG0015923	Defensin_big	"GO:defense response to Gram-negative bacterium"	GO:0050829
+PF14862	OG0015923	Defensin_big	"GO:defense response to Gram-positive bacterium"	GO:0050830
+PF07174	OG0015583	FAP	"GO:extracellular matrix binding"	GO:0050840
+PF03943	OG0017783	TAP_C	"GO:mRNA transport"	GO:0051028
+PF01920	OG0014918	Prefoldin_2	"GO:unfolded protein binding"	GO:0051082
+PF01920	OG0017361	Prefoldin_2	"GO:unfolded protein binding"	GO:0051082
+PF01920	OG0017465	Prefoldin_2	"GO:unfolded protein binding"	GO:0051082
+PF03938	OG0014921	OmpH	"GO:unfolded protein binding"	GO:0051082
+PF03938	OG0014971	OmpH	"GO:unfolded protein binding"	GO:0051082
+PF03938	OG0015015	OmpH	"GO:unfolded protein binding"	GO:0051082
+PF09229	OG0016593	Aha1_N	"GO:chaperone binding"	GO:0051087
+PF01770	OG0016941	Folate_carrier	"GO:vitamin transport"	GO:0051180
+PF08702	OG0014921	Fib_alpha	"GO:protein polymerization"	GO:0051258
+PF08702	OG0017747	Fib_alpha	"GO:protein polymerization"	GO:0051258
+PF01763	OG0016603	Herpes_UL6	"GO:chromosome organization"	GO:0051276
+PF02826	OG0015216	2-Hacid_dh_C	"GO:NAD binding"	GO:0051287
+PF02826	OG0016988	2-Hacid_dh_C	"GO:NAD binding"	GO:0051287
+PF03720	OG0017915	UDPG_MGDP_dh_C	"GO:NAD binding"	GO:0051287
+PF03721	OG0017000	UDPG_MGDP_dh_N	"GO:NAD binding"	GO:0051287
+PF04166	OG0016614	PdxA	"GO:NAD binding"	GO:0051287
+PF07160	OG0014918	SKA1	"GO:cell division"	GO:0051301
+PF11802	OG0014862	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0014951	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0015133	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0015222	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0015430	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0015491	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0015569	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0015734	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0016503	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0016944	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0017892	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF11802	OG0018093	CENP-K	"GO:kinetochore assembly"	GO:0051382
+PF01155	OG0017169	HypA	"GO:protein maturation"	GO:0051604
+PF01858	OG0015087	RB_A	"GO:regulation of cell cycle"	GO:0051726
+PF15151	OG0017233	RGCC	"GO:regulation of cell cycle"	GO:0051726
+PF00083	OG0016573	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00083	OG0016574	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00083	OG0016703	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00083	OG0016818	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00083	OG0016946	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00083	OG0016961	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00083	OG0017198	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00083	OG0017324	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00083	OG0017582	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00083	OG0018096	Sugar_tr	"GO:transmembrane transport"	GO:0055085
+PF00324	OG0014943	AA_permease	"GO:transmembrane transport"	GO:0055085
+PF00324	OG0016691	AA_permease	"GO:transmembrane transport"	GO:0055085
+PF00324	OG0017764	AA_permease	"GO:transmembrane transport"	GO:0055085
+PF00664	OG0015182	ABC_membrane	"GO:transmembrane transport"	GO:0055085
+PF00854	OG0016749	PTR2	"GO:transmembrane transport"	GO:0055085
+PF00860	OG0015454	Xan_ur_permease	"GO:transmembrane transport"	GO:0055085
+PF01544	OG0015546	CorA	"GO:transmembrane transport"	GO:0055085
+PF01544	OG0017293	CorA	"GO:transmembrane transport"	GO:0055085
+PF02133	OG0014968	Transp_cyt_pur	"GO:transmembrane transport"	GO:0055085
+PF02133	OG0015652	Transp_cyt_pur	"GO:transmembrane transport"	GO:0055085
+PF02133	OG0015732	Transp_cyt_pur	"GO:transmembrane transport"	GO:0055085
+PF02133	OG0016980	Transp_cyt_pur	"GO:transmembrane transport"	GO:0055085
+PF02535	OG0014873	Zip	"GO:transmembrane transport"	GO:0055085
+PF02535	OG0014894	Zip	"GO:transmembrane transport"	GO:0055085
+PF02535	OG0014901	Zip	"GO:transmembrane transport"	GO:0055085
+PF02535	OG0014906	Zip	"GO:transmembrane transport"	GO:0055085
+PF02535	OG0014909	Zip	"GO:transmembrane transport"	GO:0055085
+PF02535	OG0014911	Zip	"GO:transmembrane transport"	GO:0055085
+PF02535	OG0015089	Zip	"GO:transmembrane transport"	GO:0055085
+PF02535	OG0016432	Zip	"GO:transmembrane transport"	GO:0055085
+PF02535	OG0016686	Zip	"GO:transmembrane transport"	GO:0055085
+PF03137	OG0016055	OATP	"GO:transmembrane transport"	GO:0055085
+PF03137	OG0017582	OATP	"GO:transmembrane transport"	GO:0055085
+PF06422	OG0016672	PDR_CDR	"GO:transmembrane transport"	GO:0055085
+PF06609	OG0016554	TRI12	"GO:transmembrane transport"	GO:0055085
+PF06609	OG0016573	TRI12	"GO:transmembrane transport"	GO:0055085
+PF06609	OG0017101	TRI12	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0016554	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0016573	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0016574	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0016748	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0016818	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0016946	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0017101	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0017198	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0017324	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0017423	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0017582	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF07690	OG0018096	MFS_1	"GO:transmembrane transport"	GO:0055085
+PF08449	OG0017329	UAA	"GO:transmembrane transport"	GO:0055085
+PF13520	OG0016691	AA_permease_2	"GO:transmembrane transport"	GO:0055085
+PF13520	OG0016955	AA_permease_2	"GO:transmembrane transport"	GO:0055085
+PF13520	OG0017342	AA_permease_2	"GO:transmembrane transport"	GO:0055085
+PF13520	OG0017764	AA_permease_2	"GO:transmembrane transport"	GO:0055085
+PF15806	OG0016749	DUF4707	"GO:cilium assembly"	GO:0060271
+PF04418	OG0015936	DUF543	"GO:MICOS complex"	GO:0061617
+PF04710	OG0016912	Pellino	"GO:ubiquitin protein ligase activity"	GO:0061630
+PF12861	OG0017196	zf-ANAPC11	"GO:ubiquitin protein ligase activity"	GO:0061630
+PF07426	OG0016557	Dynactin_p22	"GO:cytoskeleton-dependent cytokinesis"	GO:0061640
+PF01153	OG0018057	Glypican	"GO:collagen-containing extracellular matrix"	GO:0062023
+PF06644	OG0017476	ATP11	"GO:protein-containing complex assembly"	GO:0065003
+PF15233	OG0016841	SYCE1	"GO:synaptonemal complex organization"	GO:0070193
+PF16331	OG0014918	TolA_bind_tri	"GO:protein trimerization"	GO:0070206
+PF16331	OG0015130	TolA_bind_tri	"GO:protein trimerization"	GO:0070206
+PF16331	OG0017361	TolA_bind_tri	"GO:protein trimerization"	GO:0070206
+PF02737	OG0016524	3HCDH_N	"GO:NAD+ binding"	GO:0070403
+PF02737	OG0017000	3HCDH_N	"GO:NAD+ binding"	GO:0070403
+PF10473	OG0014918	CENP-F_leu_zip	"GO:dynein complex binding"	GO:0070840
+PF10473	OG0016861	CENP-F_leu_zip	"GO:dynein complex binding"	GO:0070840
+PF10473	OG0017042	CENP-F_leu_zip	"GO:dynein complex binding"	GO:0070840
+PF10473	OG0017361	CENP-F_leu_zip	"GO:dynein complex binding"	GO:0070840
+PF10798	OG0015015	YmgB	"GO:cellular response to acidic pH"	GO:0071468
+PF00150	OG0017013	Cellulase	"GO:organic substance metabolic process"	GO:0071704
+PF04420	OG0016423	CHD5	"GO:tail-anchored membrane protein insertion into ER membrane"	GO:0071816
+PF01494	OG0015205	FAD_binding_3	"GO:FAD binding"	GO:0071949
+PF01494	OG0016500	FAD_binding_3	"GO:FAD binding"	GO:0071949
+PF01494	OG0016581	FAD_binding_3	"GO:FAD binding"	GO:0071949
+PF01494	OG0016848	FAD_binding_3	"GO:FAD binding"	GO:0071949
+PF01494	OG0016996	FAD_binding_3	"GO:FAD binding"	GO:0071949
+PF01494	OG0017000	FAD_binding_3	"GO:FAD binding"	GO:0071949
+PF02049	OG0015539	FliE	"GO:bacterial-type flagellum-dependent cell motility"	GO:0071973
+PF02049	OG0017982	FliE	"GO:bacterial-type flagellum-dependent cell motility"	GO:0071973
+PF02050	OG0015015	FliJ	"GO:bacterial-type flagellum-dependent cell motility"	GO:0071973
+PF16818	OG0015346	SLM4	"GO:Ragulator complex"	GO:0071986
+PF08651	OG0015015	DASH_Duo1	"GO:mitotic spindle"	GO:0072686
+PF01770	OG0016941	Folate_carrier	"GO:vitamin transmembrane transporter activity"	GO:0090482
+PF16671	OG0017928	ACD	"GO:actin filament reorganization"	GO:0090527
+PF06005	OG0016861	ZapB	"GO:cell septum assembly"	GO:0090529
+PF06005	OG0017042	ZapB	"GO:cell septum assembly"	GO:0090529
+PF15203	OG0016868	TMEM95	"GO:sperm plasma membrane"	GO:0097524
+PF12861	OG0017196	zf-ANAPC11	"GO:cullin family protein binding"	GO:0097602
+PF09096	OG0015280	Phage-tail_2	"GO:virus tail, baseplate"	GO:0098025
+PF08018	OG0015712	Antimicrobial_1	"GO:defense response to other organism"	GO:0098542
+PF00664	OG0015182	ABC_membrane	"GO:ABC-type transporter activity"	GO:0140359
+PF19055	OG0017033	ABC2_membrane_7	"GO:ABC-type transporter activity"	GO:0140359
+PF00012	OG0015731	HSP70	"GO:ATP-dependent protein folding chaperone"	GO:0140662
+PF13476	OG0015182	AAA_23	"GO:ATP-dependent DNA damage sensor activity"	GO:0140664
+PF13476	OG0017692	AAA_23	"GO:ATP-dependent DNA damage sensor activity"	GO:0140664
+PF13476	OG0018055	AAA_23	"GO:ATP-dependent DNA damage sensor activity"	GO:0140664
+PF03030	OG0016887	H_PPase	"GO:proton transmembrane transport"	GO:1902600
+PF03030	OG0016888	H_PPase	"GO:proton transmembrane transport"	GO:1902600
+PF03179	OG0016594	V-ATPase_G	"GO:proton transmembrane transport"	GO:1902600
+PF12619	OG0016616	MCM2_N	"GO:negative regulation of DNA helicase activity"	GO:1905775
+PF02592	OG0016954	Vut_1	"GO:queuosine salvage"	GO:1990397
+PF06682	OG0014950	SARAF	"GO:regulation of store-operated calcium entry"	GO:2001256
+PF06682	OG0016055	SARAF	"GO:regulation of store-operated calcium entry"	GO:2001256
+PF06682	OG0016767	SARAF	"GO:regulation of store-operated calcium entry"	GO:2001256

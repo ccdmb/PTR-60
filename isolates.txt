@@ -1,0 +1,10 @@
+region	isolates
+Australia	6
+Brazil	1
+USA	6
+Canada	2
+Denmark	3
+Germany	3
+Tunisia	2
+Algeria	2
+UK	1

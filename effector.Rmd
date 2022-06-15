@@ -1,0 +1,88 @@
+---
+title: "PTR-60-75 effectors"
+author: "Paula Moolhuijzen"
+date: "Date: `r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+libraries loaded
+
+```{r, echo=FALSE, message=FALSE, include=FALSE}
+getwd()
+setwd(getwd())
+print(getwd())
+```
+
+## R load libraries
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(ggrepel)
+library(ggpubr)
+```
+
+
+
+### read in effectors data
+
+```{r}
+tbl <- read.table("effector.txt", sep="\t", header = FALSE, stringsAsFactors=TRUE)
+#str(tbl)
+```
+
+## set headers
+
+```{r}
+names(tbl) <-c(V1="Group", V2="Gene", V3="Length", V4="Score")
+#head(tbl)
+```
+
+## Compare means effector length
+
+```{r}
+compare_means(Length ~ Group, data = tbl)
+```
+
+## boxplot effector lengths
+
+```{r}
+p1 <- ggplot(tbl, aes(x=Group, y=Length, fill=Group)) +
+  geom_boxplot()
+
+p1
+```
+
+## boxplot effector scores
+
+```{r}
+p2 <- ggplot(tbl, aes(x=Group, y=Score, fill=Group)) +
+  geom_boxplot() 
+p2
+```
+
+
+## Compare means effector scores
+
+```{r}
+compare_means(Score ~ Group, data = tbl)
+```
+
+## boxplot effector A) length and B) score
+```{r}
+pdf(file="effector-boxplots.pdf")
+
+ggarrange(p1, p2, labels = c("A", "B"),
+          ncol = 2, nrow = 1)
+
+dev.off()
+```
+
+```{r}
+sessionInfo()
+```

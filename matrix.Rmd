@@ -1,0 +1,170 @@
+---
+title: "PTR-75-GMAP matrix Ptr Pan Genomes"
+author: "Paula Moolhuijzen"
+date: "Date: `r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+libraries loaded
+
+```{r, echo=FALSE, message=FALSE, include=FALSE}
+getwd()
+setwd(getwd())
+print(getwd())
+```
+
+
+```{r, echo=FALSE, message=FALSE, include=FALSE}
+
+library(ggplot2)
+library(gplots)
+library(pheatmap)
+library("dplyr")
+library("ggpubr")
+library("Hmisc")
+library(corrplot)
+library(reshape2)
+#library(ggridges)
+library(grid)
+library(gridExtra)
+library(lattice)
+library(RColorBrewer)
+```
+
+Read in Ptr gene matrix sequence percent identity
+
+```{r, echo=TRUE,message=TRUE}
+
+mat <- as.matrix(read.table("matrix-pid.txt", row.names=1, header=TRUE))
+
+dim(mat)
+```
+
+filter out genes with the same sequence percent identity across all isolates
+
+```{r, echo=TRUE,message=TRUE}
+
+df <- mat[apply(mat, 1, function(x) length(unique(x[!is.na(x)])) != 1),]
+
+dim(df)
+```
+
+
+```{r}
+meta <- as.data.frame(read.table("meta.txt", sep="\t", header = TRUE, row.names=1 ))
+
+```
+
+
+Correlation plot for all mRNA sequence percent identity
+
+```{r, echo=FALSE, fig.width=8, fig.height=8}
+
+ann_colors = list(
+    Country = c(Australia="#0066CC", Canada="firebrick", USA="#009900", Algeria="#EED8BD", Tunisia="#D1B28A", UK="#D9A7E8", Germany="#C270DB", Denmark="#A436C6", Brazil="#6600CC"),
+    Technology = c(Illumina = "#E0E0E0", PacBio = "#A0A0A0", ONT="#606060", Sanger="#A0A0A0"),
+    Race = c(race1 = "#009900", race2 = "orange", race3 = "#6600CC", race4 = "#0066CC", race5 = "#FFD700", race7 = "firebrick", race8= "black", na="white", unknown="#D2B48C")
+)
+
+labs.row <- rownames(cor(mat))
+labs.row <- gsub("\\.","-",labs.row )
+
+labs.col <- colnames(cor(mat))
+labs.col <- gsub("\\.","-",labs.col )
+
+pheatmap(cor(mat), annotation_row = meta, show_rownames=T, show_colnames=T, fontsize=12, annotation_colors = ann_colors, labels_row=labs.row, labels_col=labs.col)
+
+```
+
+Read in Ptr  matrix of gene counts
+
+```{r, echo=TRUE,message=TRUE}
+
+mat1 <- as.matrix(read.table("matrix-cnt.txt", row.names=1, header=TRUE))
+
+dim(mat1)
+```
+
+filter genes out with the same number of counts across isolates
+
+```{r, echo=TRUE,message=TRUE}
+
+
+df1 <- mat1[apply(mat1, 1, function(x) length(unique(x[!is.na(x)])) != 1),]
+
+
+```
+
+
+Plot the correlation for all gene counts
+
+```{r, echo=FALSE, fig.width=10, fig.height=12}
+
+
+labs.row1 <- rownames(cor(mat1))
+labs.row1 <- gsub("\\.","-",labs.row )
+
+labs.col1 <- colnames(cor(mat1))
+labs.col1 <- gsub("\\.","-",labs.col )
+
+
+pheatmap(cor(mat1), annotation_row = meta, fontsize=12, annotation_colors = ann_colors, labels_row=labs.row1, labels_col=labs.col1)
+
+```
+
+
+Plot correlation for filtered gene count
+
+```{r, echo=FALSE, fig.width=10, fig.height=12}
+
+pid <- pheatmap(cor(mat), show_rownames=T, show_colnames=T, annotation_row = meta, fontsize=12, annotation_colors = ann_colors, main="A", labels_row=labs.row, labels_col=labs.col)
+  
+cnt <- pheatmap(cor(mat1), show_rownames=T, show_colnames=T, annotation_row = meta, fontsize=12,annotation_colors = ann_colors, main="B", labels_row=labs.row1, labels_col=labs.col1)
+
+```
+
+```{r}
+plot_list=list()
+plot_list[["pid"]]=pid[[4]]
+plot_list[["cnt"]]=cnt[[4]]
+
+pdf(file="correlation-pid-cnt.pdf", width=18, height = 12)
+grid.arrange(grobs=plot_list, ncol=2)
+dev.off()
+```
+
+
+Filter genes for ToxC producing isolates counts absent/present Pacbio
+
+```{r, fig.width=10, fig.height=12}
+dfp <- df1[,c("DW5","Ls13.192","Ptr86.124","Ptr90.2","Biotrigo9.1","V1","M4","ARCrossB10","Pt.1C.BFP")]
+
+list <- list("DW5","Ls13.192","Ptr86.124","Ptr90.2","Biotrigo9.1","V1","M4","ARCrossB10","Pt.1C.BFP")
+f1 <-dfp[grep("V1|DW5|Ls|Ptr86|Ptr90|Bio|M4|ARC|PTR", rownames(dfp)),]
+
+f1 = f1[f1[,"DW5"] == 0,]
+f1 = f1[f1[,"Ls13.192"] == 0,]
+f1 = f1[f1[,"Ptr86.124"] == 0,]
+f1 = f1[f1[,"Ptr90.2"] == 0,]
+f1 = f1[f1[,"Biotrigo9.1"] == 0,]
+f1 = f1[f1[,"V1"] != 0,]
+f1 = f1[f1[,"M4"] != 0,]
+f1 = f1[f1[,"ARCrossB10"] != 0,]
+#f1 = f1[f1[,"Pt.1C.BFP"] != 0,]
+
+
+pdf(file="matrix-ToxC.pdf", width = 10, height=12)
+
+pheatmap(f1, fontsize_col = 8, fontsize_row = 6, show_rownames=T)
+
+dev.off()
+```
+
+```{r}
+sessionInfo()
+```
+

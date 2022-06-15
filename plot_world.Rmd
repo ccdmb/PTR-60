@@ -1,0 +1,85 @@
+---
+title: "Plot_world isolates"
+author: "Paula Moolhuijzen"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Yes
+```{r}
+getwd()
+setwd(getwd())
+print(getwd())
+```
+
+## libraries
+
+```{r, echo=FALSE}
+library(plotly)
+library(dplyr)
+library(ggplot2)
+```
+
+
+```{r, echo=FALSE}
+iso <- read.table("isolates.txt", sep="\t", header = TRUE)
+world <- map_data("world")
+
+worldmap <-ggplot() +
+  geom_map(
+    data = world, map = world,
+    aes(long, lat, map_id = region),
+    color = "gray", fill = "white", size = 0.1
+  ) +
+  theme_void() +
+  theme(legend.position = "none")
+
+head(world)
+
+```
+
+```{r, echo=FALSE}
+world$isolates[world$region == 'UK'] <- 1
+world$isolates[world$region == 'Germany'] <- 3
+world$isolates[world$region == 'Denmark'] <- 3
+world$isolates[world$region == 'Tunisia'] <- 2
+world$isolates[world$region == 'Algeria'] <- 2
+world$isolates[world$region == 'Brazil'] <- 1
+world$isolates[world$region == 'USA'] <- 6
+world$isolates[world$region == 'Canada'] <- 2
+world$isolates[world$region == 'Australia'] <- 6
+```
+
+
+```{r, echo=FALSE}
+p <- ggplot()
+p <- p + geom_polygon( data=world, 
+                       aes(x=long, y=lat, group=group, fill = isolates),
+                       color="white", size = 0.1) +
+  theme_void() 
+
+p + labs(fill = "No. isolates") +
+  theme(legend.position = "bottom", legend.title = element_text(color = "black", size = 12))
+
+p +theme(legend.position = "bottom")
+
+```
+
+```{r}
+pdf(file="world_map.pdf", width=10, height=5) 
+p + labs(fill = "No. isolates") +
+  theme(legend.position = "bottom", legend.title = element_text(color = "black", size = 12))
+dev.off()
+```
+
+
+
+```{r}
+sessionInfo()
+```
+
+
